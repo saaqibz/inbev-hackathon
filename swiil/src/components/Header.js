@@ -21,7 +21,6 @@ const Header = () => (
                 <div>
                     <img className="bubbles" src={bubbles} />
                 <div className="search">
-                    <i className="fa-search"></i>
                     <input className="search-bar" type="search" placeholder="Search for food or drink" />
                 </div>
                 </div>
