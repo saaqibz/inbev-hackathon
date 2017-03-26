@@ -1,14 +1,3 @@
-body{
-	font-family: 'Open Sans', sans-serif;
-	background-color: #fdfcf9;
-
-}
-nav{
-	background: url("../public/assets/nav-bg.jpg") no-repeat;
-	width: 375px;
-	height:116px;
-}
-
 #nav{
 	background: #fff;
 
@@ -25,9 +14,8 @@ nav{
 	height: 23px;
 	background: url("../public/assets/logo-small.png") no-repeat;
 	float: left;
-  margin-left: 13px;
-  margin-top: 13px;
-	
+	margin-left: 13px;
+	margin-top: 13px;
 }
 
 #bar-name{
