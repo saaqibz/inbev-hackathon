@@ -7,10 +7,10 @@ import _ from 'lodash';
 import products from '../json/products.json';
 
 const categories = [
-    'Breakfast',
-    'Brunch',
-    'Lunch',
-    'Dinner',
+    'Le Petit Déjeuner',
+    'Le Brunch',
+    'Le Déjeuner',
+    'Le Dîner',
     'Happy Hour',
 ];
 
