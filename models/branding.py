@@ -5,6 +5,7 @@ __license__ = 'MIT'
 import csv
 brand_count = {}
 
+
 file_prefix = 'POS Table '
 for i in range(4):
     if i == 0:
