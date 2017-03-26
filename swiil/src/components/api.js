@@ -2,7 +2,6 @@
  * Created by saz on 3/26/17.
  */
 import axios from 'axios';
-import _ from 'lodash';
 
 import products from '../json/products.json';
 
@@ -21,7 +20,7 @@ class Api {
     }
 
     getMenu() {
-        const url = `http://www.google.com`;
+        const url = `http://localhost:3000`;
         return axios.get(url)
             .then(() => {
                 return products;

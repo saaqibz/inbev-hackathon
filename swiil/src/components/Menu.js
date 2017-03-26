@@ -2,6 +2,7 @@
  * Created by saz on 3/26/17.
  */
 import React, { Component } from 'react';
+import _ from 'lodash';
 
 import './Menu.css';
 
@@ -18,51 +19,46 @@ class MenuContainer extends Component {
 
     componentDidMount() {
         this.Api.getCategories().then((categories) => this.setState({categories}));
+        this.Api.getMenu().then((menuItems) => this.setState({menuItems}));
     }
 
     getCategories(state) {
         return state.categories || [];
     }
 
-    getEntrees() {
-        return [
-            'Prosciutto & Reggiano',
-            'Chorizo con Papas',
-            'Papas Fritas',
-            'Cabo',
-            'Bodillos',
-            'Calamari au Babeurre',
-            'Gambas al Ajillo',
-            'Pulpo a la Parrilla',
-            'Ceviche Peruano',
-            'Nachos Vegetales / Pollo / Chorizo',
-            'Quesadilla de Vegetales / Pollo / Chor',
-            'Antipasto (pour deux)',
-        ];
+    getMenuItems() {
+        let menuItems = this.state.menuItems || [];
+        return menuItems;
+    }
+
+    onChangeCategory(selectedCategory) {
+        let menuItems = _.sample(this.state.menuItems || []);
+        this.setState({menuItems, selectedCategory});
     }
 
     render() {
         let categories = this.getCategories(this.state);
-        let entrees = this.getEntrees();
-        let selectedCategory = categories[0];
+        let menuItems = this.getMenuItems();
+        let selectedCategory = this.state.selectedCategory || categories[0];
 
         return <MenuView
             categories={categories}
-            entrees={entrees}
+            menuItems={menuItems}
             selectedCategory={selectedCategory}
         />;
     }
 }
 
-const MenuView = ({ categories, entrees, selectedCategory }) => {
+const MenuView = ({ categories, menuItems, selectedCategory }) => {
     let categoryList = categories.map((cat) => {
         return (selectedCategory === cat) ?
-            <li className="selected" key={cat}>{cat}</li> :
-            <li >{cat}</li>;
+            <li className="selected" key={cat} onClick={() => this.onChangeCategory(cat)}>{cat}</li> :
+            <li key={cat}>{cat}</li>;
     });
 
-    let entreeList = entrees.map((entree) => {
-        return <li key={entree}>{entree}</li>;
+    let menuItemsList = menuItems.map((menuItems) => {
+        let {product_name, product_id} = menuItems;
+        return <li key={product_id}>{product_name}</li>;
     });
 
     return (
@@ -74,7 +70,7 @@ const MenuView = ({ categories, entrees, selectedCategory }) => {
                 </ul>
                 <div id="entrees" className="menu-items">
                     <ul>
-                        {entreeList}
+                        {menuItemsList}
                     </ul>
                 </div>
             </div>
