@@ -7,4 +7,5 @@ function esRoutes(req, res) {
 
 
 module.exports = (app, db) => {
+	app.get('/:bar_product_id', esRoutes);
 };
