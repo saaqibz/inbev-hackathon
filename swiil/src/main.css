@@ -1,11 +1,23 @@
 body{
 	font-family: 'Open Sans', sans-serif;
+	background-color: #fdfcf9;
 
 }
 nav{
 	background: url("../public/assets/nav-bg.jpg") no-repeat;
 	width: 375px;
-	height: 86px;
+	height:116px;
+}
+
+#nav{
+	background: #fff;
+
+
+}
+
+.mobile-size{
+	box-shadow: 0 1px 1px 0 rgba(215, 215, 215, 0.5);
+	width: 375px;
 }
 
 #logo-small{
@@ -16,6 +28,12 @@ nav{
   margin-left: 13px;
   margin-top: 13px;
 	
+}
+
+#bar-name{
+	color: #fff;
+	text-align: center;
+	font-size: 18px;
 }
 
 #search-bar{
@@ -31,4 +49,42 @@ nav{
 
 i{
 	font-family: 'fontAwesome';
+}
+
+.nav-item{
+	display: inline-block;
+	color: 39393a;
+	width:49%;
+	text-align: center;
+	height: 30px;
+}
+
+.nav-item.selected{
+	color: #251511;
+	font-weight: bold;
+}
+
+#menu-categories{
+	-webkit-padding-start: 15px;
+}
+
+#menu-categories li{
+	display: inline-block;
+	padding: 0 14px;
+}
+
+#menu-categories li.selected{
+	color: #251511;
+	font-weight: bold;
+}
+.menu-items{
+	background: #fff;
+	line-height: 2.5;
+	color: #39393a;
+	font-size: 16px;
+}
+
+#entrees li{
+
+	list-style-type: none;
 }
