@@ -20,7 +20,10 @@ const Header = () => (
         <div style={headerStyle}>
             <div>
                 <img className="bubbles" src={bubbles} />
-                <input className="search-bar" type="search" />
+                <div className="search">
+                    <i className="fa-search"></i>
+                    <input className="search-bar" type="search" placeholder="Search for food or drink" />
+                </div>
             </div>
             <div className="bar-name">{barName}</div>
         </div>

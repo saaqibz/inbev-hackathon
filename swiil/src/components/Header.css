@@ -9,7 +9,8 @@
 }
 
 .nav {
-    background: #f1f1f1;
+    background: #ffffff;
+    box-shadow: 0 1px 1px 0 rgba(215, 215, 215, 0.5);
 }
 
 .nav-item{
@@ -29,4 +30,26 @@
     color: #fff;
     text-align: center;
     font-size: 18px;
+    margin-top: 10px;
+}
+
+.bubbles{
+    margin-left: 13px;
+    margin-top: 13px;
+    display: inline-block;
+
+}
+
+.search{
+    display: inline-block;
+    position: relative;
+    top: -9px;
+    left: 7px;
+}
+
+.search .fa-search{
+    color: #9b9b9b;
+    position: absolute;
+    left: 10px;
+    top: 5px;
 }

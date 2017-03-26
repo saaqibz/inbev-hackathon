@@ -1,5 +1,7 @@
 #menu-categories{
     -webkit-padding-start: 15px;
+    overflow: auto;
+    white-space: nowrap;
 }
 
 #menu-categories li {
@@ -20,7 +22,14 @@
     font-size: 16px;
 }
 
-#entrees li{
-
-    list-style-type: none;
+#entrees{
+    height: 534px;
+    background-color: #ffffff;
 }
+
+#entrees li{
+    background-color: #ffffff;
+    list-style-type: none;
+    line-height: 2.5;
+}
+
