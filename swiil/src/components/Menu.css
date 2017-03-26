@@ -1,0 +1,26 @@
+#menu-categories{
+    -webkit-padding-start: 15px;
+}
+
+#menu-categories li {
+    display: inline-block;
+    padding: 0 14px;
+}
+
+#menu-categories li.selected {
+    color: #251511;
+    font-weight: bold;
+}
+
+
+.menu-items{
+    background: #ddd;
+    line-height: 2.5;
+    color: #39393a;
+    font-size: 16px;
+}
+
+#entrees li{
+
+    list-style-type: none;
+}

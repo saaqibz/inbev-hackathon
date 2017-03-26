@@ -9,6 +9,7 @@ import './App.css';
 import statusBarImg from './assets/ios-statusbar.png';
 
 import Header from './components/Header';
+import MenuContainer from './components/Menu';
 
 // <ul>
 //     <li><Link to="/">Home</Link></li>
@@ -32,12 +33,6 @@ const StatusBar = () => (
 const SplashView = () => (
     <div>
         <h2>SplashView</h2>
-    </div>
-);
-
-const MenuView = () => (
-    <div>
-        <h2>MenuView</h2>
     </div>
 );
 
@@ -84,7 +79,7 @@ const App = () => (
                 <StatusBar />
                 <Header />
                 <Route exact path="/" component={SplashView}/>
-                <Route path="/menu" component={MenuView}/>
+                <Route path="/menu" component={MenuContainer}/>
                 <Route path="/suggestion" component={SuggestionView}/>
             </div>
         </Router>
