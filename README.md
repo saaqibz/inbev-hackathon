@@ -12,6 +12,7 @@ https://zpl.io/Z1U2mLg
 # Install
 ```
 npm install
-react-native link
-react-native run-ios
+npm run start
+
+goto: http://localhost:3000/
 ```
