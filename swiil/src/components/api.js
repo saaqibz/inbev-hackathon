@@ -10,7 +10,7 @@ const categories = [
     'Le Brunch',
     'Le Déjeuner',
     'Le Dîner',
-    'Happy Hour',
+    'Happy Hour'
 ];
 
 class Api {
