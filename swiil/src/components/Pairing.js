@@ -77,8 +77,14 @@ import Header from './Header';
 //     )
 // };
 
-const PairingView = ({ categories, entrees, selectedCategory }) => (
+const getItemFromQueryParam = (param) => {
+    return param.split("?item=")[1];
+};
+
+const PairingView = ({location}) => (
+
     <div>
+        <h1> Params: {getItemFromQueryParam(location.search)}</h1>
         <div className="radio-scroll">
             <div className="radio"></div>
 

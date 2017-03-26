@@ -2,6 +2,7 @@
  * Created by saz on 3/26/17.
  */
 import React, { Component } from 'react';
+import {Link} from 'react-router-dom';
 import _ from 'lodash';
 
 import './Menu.css';
@@ -33,7 +34,7 @@ class MenuContainer extends Component {
 
     onChangeCategory(selectedCategory) {
         debugger;
-        let menuItems = _.sample(this.state.menuItems || []);
+        let menuItems = this.state.menuItems || [];
         this.setState({menuItems, selectedCategory});
     }
 
@@ -46,39 +47,57 @@ class MenuContainer extends Component {
             categories={categories}
             menuItems={menuItems}
             selectedCategory={selectedCategory}
-            onChangeCategory={this.onChangeCategory}
+            onClick={this.onChangeCategory}
         />;
     }
 }
 
-const MenuView = ({ categories, menuItems, selectedCategory, onChangeCategory }) => {
-    let categoryList = categories.map((cat) => {
-        return (selectedCategory === cat) ?
-            <li className="selected"
-                key={cat} >{cat}</li> :
-            <li key={cat} onClick={() => onChangeCategory.bind(this)(cat)}>{cat}</li>;
-    });
+class MenuView extends Component{
 
-    let menuItemsList = menuItems.map((menuItems) => {
-        let {product_name, product_id} = menuItems;
-        return <li key={product_id}>{product_name}</li>;
-    });
+    constructor(props) {
+        super(props);
+        this.state = {
+            selectedCategory: 'Le Petit Déjeuner'
+        }
+    }
 
-    return (
-        <div>
-            <Header />
+    render() {
+        let {categories, menuItems, onClick} = this.props;
+
+        let selectedCategory = this.state.selectedCategory || 'Le Petit Déjeuner';
+        let categoryList = categories.map((cat) => {
+            return (selectedCategory === cat) ?
+                <li className="selected"
+                    key={cat}>{cat}</li> :
+                <li key={cat} onClick={() => onClick(cat)}>{cat}</li>;
+        });
+
+        let menuItemsList = menuItems.map((menuItems) => {
+            let { product_name, product_id } = menuItems;
+            return (<li key={product_id}>
+                <Link to={`/pairing?item=1`}>
+                    {product_name}
+                </Link>
+            </li>);
+        });
+
+        return (
             <div>
-                <ul id="menu-categories">
-                    {categoryList}
-                </ul>
-                <div id="entrees" className="menu-items">
-                    <ul>
-                        {menuItemsList}
+                <Header />
+                <div>
+                    <ul id="menu-categories">
+                        {categoryList}
                     </ul>
+                    <div id="entrees" className="menu-items">
+                        <ul>
+                            {menuItemsList}
+                        </ul>
+                    </div>
                 </div>
             </div>
-        </div>
-    )
+        )
+    }
+
 };
 
 export default MenuContainer;

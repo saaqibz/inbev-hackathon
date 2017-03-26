@@ -5,6 +5,9 @@ import axios from 'axios';
 
 import products from '../json/products.json';
 
+const OFFLINE = true;
+
+
 const categories = [
     'Le Petit Déjeuner',
     'Le Brunch',
