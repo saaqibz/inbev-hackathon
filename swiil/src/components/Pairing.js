@@ -6,6 +6,8 @@ import React, { Component } from 'react';
 import './Pairing.css';
 
 import Header from './Header';
+import card1 from '../assets/card/card-burgercrabe-alexanderkeithsred.png';
+
 
 // class MenuContainer extends Component {
 //     getPairingCard() {
@@ -81,14 +83,19 @@ const getItemFromQueryParam = (param) => {
     return param.split("?item=")[1];
 };
 
+
 const PairingView = ({location}) => (
 
     <div>
-        <h1> Params: {getItemFromQueryParam(location.search)}</h1>
+        <Header />
+        <div className="cards" style={{textAlign: 'center'}}>
+            <img src={card1} />
+        </div>
         <div className="radio-scroll">
             <div className="radio"></div>
 
             <div className="radio active"></div>
+
 
             <div className="radio"></div>
 
