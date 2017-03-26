@@ -22,8 +22,8 @@ const SplashView = ({ categories, entrees, selectedCategory }) => (
     <div style={splashViewStyle}>
         <div className="logo-box">
             <img src={logo} />
-            <div>Find your perfect drink</div>
-            <button>Let's Go!</button>
+            <p className="tagline">Find your perfect drink</p>
+            <button className="go">Let's Go!</button>
         </div>
     </div>
 );
