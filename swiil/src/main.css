@@ -1,0 +1,34 @@
+body{
+	font-family: 'Open Sans', sans-serif;
+
+}
+nav{
+	background: url("../public/assets/nav-bg.jpg") no-repeat;
+	width: 375px;
+	height: 86px;
+}
+
+#logo-small{
+	width: 19px;
+	height: 23px;
+	background: url("../public/assets/logo-small.png") no-repeat;
+	float: left;
+  margin-left: 13px;
+  margin-top: 13px;
+	
+}
+
+#search-bar{
+	width: 319px;
+	height: 30px;
+	background-color: #ffffff;
+	position: relative;
+	left: 46px;
+	top: 12px;
+	font-size: 13px;
+	color: #9b9b9b;
+}
+
+i{
+	font-family: 'fontAwesome';
+}
