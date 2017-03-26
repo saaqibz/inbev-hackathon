@@ -6,7 +6,7 @@ import { Link } from 'react-router-dom';
 import './Splash.css';
 
 import splashBkg from '../assets/bg.svg';
-import logo from '../assets/logo.svg';
+import logo from '../assets/logo.png';
 
 const splashViewStyle = {
     background: `url(${splashBkg})`,

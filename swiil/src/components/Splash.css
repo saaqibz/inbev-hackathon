@@ -5,12 +5,15 @@
 .logo-box img{
 	margin:0 auto;
 	display: block;
+	width: 288px;
+	height: auto;
 }
 
 .tagline{
 	color: #fff;
 	text-align: center;
 	font-size: 20px;
+	margin-top: 20px;
 }
 
 .go{
