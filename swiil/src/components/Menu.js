@@ -32,6 +32,7 @@ class MenuContainer extends Component {
     }
 
     onChangeCategory(selectedCategory) {
+        debugger;
         let menuItems = _.sample(this.state.menuItems || []);
         this.setState({menuItems, selectedCategory});
     }
@@ -45,15 +46,17 @@ class MenuContainer extends Component {
             categories={categories}
             menuItems={menuItems}
             selectedCategory={selectedCategory}
+            onChangeCategory={this.onChangeCategory}
         />;
     }
 }
 
-const MenuView = ({ categories, menuItems, selectedCategory }) => {
+const MenuView = ({ categories, menuItems, selectedCategory, onChangeCategory }) => {
     let categoryList = categories.map((cat) => {
         return (selectedCategory === cat) ?
-            <li className="selected" key={cat} onClick={() => this.onChangeCategory(cat)}>{cat}</li> :
-            <li key={cat}>{cat}</li>;
+            <li className="selected"
+                key={cat} >{cat}</li> :
+            <li key={cat} onClick={() => onChangeCategory.bind(this)(cat)}>{cat}</li>;
     });
 
     let menuItemsList = menuItems.map((menuItems) => {

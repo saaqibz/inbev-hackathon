@@ -2,7 +2,7 @@
  * Created by saz on 3/26/17.
  */
 import React from 'react';
-
+import { Link } from 'react-router-dom';
 import './Splash.css';
 
 import splashBkg from '../assets/bg.svg';
@@ -22,8 +22,10 @@ const SplashView = ({ categories, entrees, selectedCategory }) => (
     <div style={splashViewStyle}>
         <div className="logo-box">
             <img src={logo} />
-            <p className="tagline">Find your perfect drink</p>
-            <button className="go">Let's Go!</button>
+            <div className="tagline">Find your perfect drink</div>
+            <Link to="/menu">
+                <button className="go">Let's Go!</button>
+            </Link>
         </div>
     </div>
 );
