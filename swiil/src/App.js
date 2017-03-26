@@ -10,6 +10,7 @@ import statusBarImg from './assets/ios-statusbar.png';
 
 import SplashView from './components/Splash';
 import MenuContainer from './components/Menu';
+import PairingView from './components/Pairing';
 
 // <ul>
 //     <li><Link to="/">Home</Link></li>
@@ -36,34 +37,6 @@ const SuggestionView = () => (
     </div>
 );
 
-const Topics = ({ match }) => (
-    <div>
-        <h2>Topics</h2>
-        <ul>
-            <li>
-                <Link to={`${match.url}/rendering`}>
-                    Rendering with React
-                </Link>
-            </li>
-            <li>
-                <Link to={`${match.url}/components`}>
-                    Components
-                </Link>
-            </li>
-            <li>
-                <Link to={`${match.url}/props-v-state`}>
-                    Props v. State
-                </Link>
-            </li>
-        </ul>
-
-        {/*<Route path={`${match.url}/:topicId`} component={Topic}/>*/}
-        <Route exact path={match.url} render={() => (
-            <h3>Please select a topic.</h3>
-        )}/>
-    </div>
-);
-
 const App = () => (
     <div>
         <h1 style={{textAlign:'center'}}>Honey-Badger: Swiil Prototype</h1>
@@ -73,7 +46,7 @@ const App = () => (
                 <StatusBar/>
                 <Route exact path="/" component={SplashView}/>
                 <Route path="/menu" component={MenuContainer}/>
-                <Route path="/suggestion" component={SuggestionView}/>
+                <Route path="/pairing" component={PairingView}/>
             </div>
         </Router>
     </div>
