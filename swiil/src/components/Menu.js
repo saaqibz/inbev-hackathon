@@ -72,10 +72,10 @@ class MenuView extends Component{
                 <li key={cat} onClick={() => onClick(cat)}>{cat}</li>;
         });
 
-        let menuItemsList = menuItems.map((menuItems) => {
+        let menuItemsList = menuItems.map((menuItems, index) => {
             let { product_name, product_id } = menuItems;
             return (<li key={product_id}>
-                <Link to={`/pairing?item=1`}>
+                <Link to={`/pairing?item=${(index%3)+1}`}>
                     {product_name}
                 </Link>
             </li>);

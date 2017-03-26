@@ -7,6 +7,8 @@ import './Pairing.css';
 
 import Header from './Header';
 import card1 from '../assets/card/card-burgercrabe-alexanderkeithsred.png';
+import card2 from '../assets/card/card-burgercrabe-labatt50.png';
+import card3 from '../assets/card/card-calamari-stella.png';
 
 
 // class MenuContainer extends Component {
@@ -80,7 +82,9 @@ import card1 from '../assets/card/card-burgercrabe-alexanderkeithsred.png';
 // };
 
 const getItemFromQueryParam = (param) => {
-    return param.split("?item=")[1];
+    let n = param.split("?item=")[1];
+    let r = [card1, card2, card3];
+    return r[n-1];
 };
 
 
@@ -89,7 +93,7 @@ const PairingView = ({location}) => (
     <div>
         <Header />
         <div className="cards" style={{textAlign: 'center'}}>
-            <img src={card1} />
+            <img src={getItemFromQueryParam(location.search)} />
         </div>
         <div className="radio-scroll">
             <div className="radio"></div>
