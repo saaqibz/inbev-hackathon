@@ -7,15 +7,21 @@ import './Menu.css';
 
 import Header from './Header';
 
+import Api from './api';
+
 class MenuContainer extends Component {
-    getCategories() {
-        return [
-            'Entrees',
-            'Pizza',
-            'Salades',
-            'Plates',
-            'Frites',
-        ];
+    constructor() {
+        super();
+        this.state = {};
+        this.Api = new Api();
+    }
+
+    componentDidMount() {
+        this.Api.getCategories().then((categories) => this.setState({categories}));
+    }
+
+    getCategories(state) {
+        return state.categories || [];
     }
 
     getEntrees() {
@@ -36,7 +42,7 @@ class MenuContainer extends Component {
     }
 
     render() {
-        let categories = this.getCategories();
+        let categories = this.getCategories(this.state);
         let entrees = this.getEntrees();
         let selectedCategory = categories[0];
 
@@ -51,12 +57,12 @@ class MenuContainer extends Component {
 const MenuView = ({ categories, entrees, selectedCategory }) => {
     let categoryList = categories.map((cat) => {
         return (selectedCategory === cat) ?
-            <li className="selected">{cat}</li> :
+            <li className="selected" key={cat}>{cat}</li> :
             <li >{cat}</li>;
     });
 
-    let entreeList = entrees.map((cat) => {
-        return <li>{cat}</li>;
+    let entreeList = entrees.map((entree) => {
+        return <li key={entree}>{entree}</li>;
     });
 
     return (
@@ -66,7 +72,7 @@ const MenuView = ({ categories, entrees, selectedCategory }) => {
                 <ul id="menu-categories">
                     {categoryList}
                 </ul>
-                <div id="entrees" class="menu-items">
+                <div id="entrees" className="menu-items">
                     <ul>
                         {entreeList}
                     </ul>

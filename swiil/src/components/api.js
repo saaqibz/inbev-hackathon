@@ -16,22 +16,20 @@ const categories = [
 
 class Api {
 
-    constructor(state) {
-        this.state = state;
-    }
-
     getCategories() {
         return new Promise((resolve) => resolve(categories));
     }
 
     getMenu() {
         const url = `http://www.google.com`;
-        axios.get(url)
+        return axios.get(url)
             .then(() => {
-                return resp = products;
-            })
-            .then((resp) => {
-
-            })
+                return products;
+            });
+            // .then((resp) => {
+            //     this.state.setState({products: resp});
+            // })
     }
 }
+
+export default Api;
