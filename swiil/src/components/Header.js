@@ -16,24 +16,24 @@ const headerStyle = {
 const barName = 'Upstairs Jazz Bar & Grill';
 
 const Header = () => (
-    <div>
-        <div style={headerStyle}>
-            <div>
-                <img className="bubbles" src={bubbles} />
+        <div>
+            <div style={headerStyle}>
+                <div>
+                    <img className="bubbles" src={bubbles} />
                 <div className="search">
                     <i className="fa-search"></i>
                     <input className="search-bar" type="search" placeholder="Search for food or drink" />
                 </div>
+                </div>
+                <div className="bar-name">{barName}</div>
             </div>
-            <div className="bar-name">{barName}</div>
-        </div>
-        <div className="nav">
-            <div className="nav-item">
-                Drink Ideas
+            <div className="nav">
+                <div className="nav-item">
+                    Drink Ideas
+                </div>
+                <div className="nav-item selected">Food Pairings</div>
             </div>
-            <div className="nav-item selected">Food Pairings</div>
         </div>
-    </div>
-);
+    );
 
 export default Header;

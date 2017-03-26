@@ -5,6 +5,8 @@ import React, { Component } from 'react';
 
 import './Menu.css';
 
+import Header from './Header';
+
 class MenuContainer extends Component {
     getCategories() {
         return [
@@ -46,11 +48,11 @@ class MenuContainer extends Component {
     }
 }
 
-const MenuView = ({ categories, entrees, selectedCategory}) => {
+const MenuView = ({ categories, entrees, selectedCategory }) => {
     let categoryList = categories.map((cat) => {
         return (selectedCategory === cat) ?
             <li className="selected">{cat}</li> :
-            <li >{cat}</li> ;
+            <li >{cat}</li>;
     });
 
     let entreeList = entrees.map((cat) => {
@@ -59,13 +61,16 @@ const MenuView = ({ categories, entrees, selectedCategory}) => {
 
     return (
         <div>
-            <ul id="menu-categories">
-                {categoryList}
-            </ul>
-            <div id="entrees" class="menu-items">
-                <ul>
-                    {entreeList}
+            <Header />
+            <div>
+                <ul id="menu-categories">
+                    {categoryList}
                 </ul>
+                <div id="entrees" class="menu-items">
+                    <ul>
+                        {entreeList}
+                    </ul>
+                </div>
             </div>
         </div>
     )
