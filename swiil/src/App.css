@@ -22,3 +22,12 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+.iphone-view {
+  height: 667px;
+  width: 375px;
+  margin: 50px 300px;
+  border: 8px solid #555;
+  border-radius: 8px;
+  /*box-shadow: 0 1px 1px 0 rgba(215, 215, 215, 0.5);*/
+}

@@ -5,7 +5,10 @@ import {
     Link
 } from 'react-router-dom'
 
-import Header from './Header';
+import './App.css';
+import statusBarImg from './assets/ios-statusbar.png';
+
+import Header from './components/Header';
 
 // <ul>
 //     <li><Link to="/">Home</Link></li>
@@ -14,6 +17,17 @@ import Header from './Header';
 // </ul>
 //
 // <hr/>
+
+const statusBarStyle = {
+    background: `url(${statusBarImg})`,
+    backgroundSize: '100% 100%',
+    height: '20px',
+    width: '100%'
+};
+
+const StatusBar = () => (
+    <div style={statusBarStyle}></div>
+);
 
 const SplashView = () => (
     <div>
@@ -67,6 +81,7 @@ const App = () => (
         <hr />
         <Router>
             <div className="iphone-view">
+                <StatusBar />
                 <Header />
                 <Route exact path="/" component={SplashView}/>
                 <Route path="/menu" component={MenuView}/>

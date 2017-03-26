@@ -1,0 +1,32 @@
+.search-bar{
+    width: 319px;
+    height: 30px;
+    background-color: #ffffff;
+    left: 46px;
+    top: 12px;
+    font-size: 18px;
+    color: #9b9b9b;
+}
+
+.nav {
+    background: #f1f1f1;
+}
+
+.nav-item{
+    display: inline-block;
+    color: #39393a;
+    width: 49%;
+    text-align: center;
+    height: 30px;
+}
+
+.nav-item.selected{
+    color: #251511;
+    font-weight: bold;
+}
+
+.bar-name {
+    color: #fff;
+    text-align: center;
+    font-size: 18px;
+}
