@@ -19,11 +19,21 @@
     width: 49%;
     text-align: center;
     height: 30px;
+    padding-top: 9px;
 }
 
 .nav-item.selected{
     color: #251511;
     font-weight: bold;
+}
+
+.nav-item.selected::after{
+    content: "";
+    width: 107px;
+    height: 3px;
+    background-color: #251511;
+    display: block;
+    margin: 0 auto;
 }
 
 .bar-name {
