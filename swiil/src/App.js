@@ -8,7 +8,7 @@ import {
 import './App.css';
 import statusBarImg from './assets/ios-statusbar.png';
 
-import Header from './components/Header';
+import SplashView from './components/Splash';
 import MenuContainer from './components/Menu';
 
 // <ul>
@@ -28,12 +28,6 @@ const statusBarStyle = {
 
 const StatusBar = () => (
     <div style={statusBarStyle}></div>
-);
-
-const SplashView = () => (
-    <div>
-        <h2>SplashView</h2>
-    </div>
 );
 
 const SuggestionView = () => (
@@ -68,7 +62,7 @@ const Topics = ({ match }) => (
             <h3>Please select a topic.</h3>
         )}/>
     </div>
-)
+);
 
 const App = () => (
     <div>
@@ -76,8 +70,7 @@ const App = () => (
         <hr />
         <Router>
             <div className="iphone-view">
-                <StatusBar />
-                <Header />
+                <StatusBar/>
                 <Route exact path="/" component={SplashView}/>
                 <Route path="/menu" component={MenuContainer}/>
                 <Route path="/suggestion" component={SuggestionView}/>
