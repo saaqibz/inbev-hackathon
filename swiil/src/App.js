@@ -30,12 +30,6 @@ const StatusBar = () => (
     <div style={statusBarStyle}></div>
 );
 
-const SuggestionView = () => (
-    <div>
-        <h2>MenuView</h2>
-    </div>
-);
-
 const App = () => (
     <div>
         <h1 style={{textAlign:'center'}}>Honey-Badger: Swiil Prototype</h1>
