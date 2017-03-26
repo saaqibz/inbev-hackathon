@@ -6,10 +6,7 @@
 
 import React, { Component } from 'react';
 import {
-  AppRegistry,
-  StyleSheet,
-  Text,
-  View
+  AppRegistry
 } from 'react-native';
 
 import SwiilNav from './app/SwiilNav'
@@ -21,11 +18,5 @@ export default class swill extends Component {
     );
   }
 }
-
-const styles = StyleSheet.create({
-    main: {
-      width: '500px'
-    }
-});
 
 AppRegistry.registerComponent('swill', () => swill);
