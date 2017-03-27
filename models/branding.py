@@ -7,10 +7,11 @@ brand_count = {}
 
 
 file_prefix = 'POS Table '
-for i in range(4):
+for i in range(5):
     if i == 0:
         pass
     else:
+        print(i)
         file_path = '../data/insights/POS Table %s.csv' % str(i)
         with open(file_path, 'r', encoding='utf-8', errors='ignore') as csv_file:
             csv_reader = csv.DictReader(csv_file)
@@ -20,7 +21,7 @@ for i in range(4):
                     brand_count[brand_name] = 0
                 brand_count[brand_name] += 1
 
-output_path = './brand-count.json'
+output_path = './brands.json'
 
 import json
 
