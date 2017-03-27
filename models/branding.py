@@ -2,6 +2,8 @@ __author__ = 'rcj1492'
 __created__ = '2017.03'
 __license__ = 'MIT'
 
+# script to get brand names and count
+
 import csv
 brand_count = {}
 
