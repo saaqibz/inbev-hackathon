@@ -1,3 +1,5 @@
 Data Insights Kit
 apiserver/node_modules
 data/
+models/*.json
+.idea/
