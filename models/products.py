@@ -2,6 +2,8 @@ __author__ = 'rcj1492'
 __created__ = '2017.03'
 __license__ = 'MIT'
 
+# a script to normalize the menu for the most popular restaurant
+
 import csv
 est_path = '../data/insights/bar_products with IDs.csv'
 

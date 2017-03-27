@@ -2,6 +2,8 @@ __author__ = 'rcj1492'
 __created__ = '2017.03'
 __license__ = 'MIT'
 
+# a script to discover the most popular restaurant
+
 import json
 est_path = './establishments.json'
 est_map = json.loads(open(est_path).read())
