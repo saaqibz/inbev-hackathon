@@ -1,0 +1,31 @@
+.logo-box {
+    padding-top: 82px;
+}
+
+.logo-box img{
+	margin:0 auto;
+	display: block;
+	width: 288px;
+	height: auto;
+}
+
+.tagline{
+	color: #fff;
+	text-align: center;
+	font-size: 20px;
+	margin-top: 20px;
+}
+
+.go{
+	width: 242px;
+	height: 45px;
+	border-radius: 100px;
+	background-color: #251511;
+	color: #fff;
+	display: block;
+	margin: 0 auto;
+	font-size: 14px;
+	font-weight: bold;
+	border: none;
+	margin-top: 46px;
+}

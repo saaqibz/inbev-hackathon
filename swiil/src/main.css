@@ -1,0 +1,17 @@
+.mobile-size{
+	width: 375px;
+}
+
+#logo-small{
+	width: 19px;
+	height: 23px;
+	background: url("../public/assets/logo-small.png") no-repeat;
+	float: left;
+	margin-left: 13px;
+	margin-top: 13px;
+}
+
+body{
+	
+	color: #39393a;
+}

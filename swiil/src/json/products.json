@@ -1,0 +1,5553 @@
+[
+  {
+    "brand_name": "Bud Light",
+    "product_price": 16.35,
+    "product_name": "biere bud light",
+    "product_type": "Beer",
+    "product_id": "619407"
+  },
+  {
+    "brand_name": "Beck's Non Alcohol",
+    "product_price": 5.0,
+    "product_name": "beck's n/a",
+    "product_type": "Beer",
+    "product_id": "585668"
+  },
+  {
+    "brand_name": "Labatt 50",
+    "product_price": 10.86,
+    "product_name": "50",
+    "product_type": "Beer",
+    "product_id": "581346"
+  },
+  {
+    "brand_name": "Labatt 50 Blue",
+    "product_price": 5.43,
+    "product_name": "bleue",
+    "product_type": "Beer",
+    "product_id": "581908"
+  },
+  {
+    "brand_name": "Bud Light",
+    "product_price": 5.43,
+    "product_name": "bud light",
+    "product_type": "Beer",
+    "product_id": "581585"
+  },
+  {
+    "brand_name": "Mill St. Organic Lager",
+    "product_price": 7.83,
+    "product_name": "pinte organic",
+    "product_type": "Beer",
+    "product_id": "619421"
+  },
+  {
+    "brand_name": "Shock Top",
+    "product_price": 7.61,
+    "product_name": "pinte shock top",
+    "product_type": "Beer",
+    "product_id": "581187"
+  },
+  {
+    "brand_name": "Goose Island - IPA",
+    "product_price": 7.83,
+    "product_name": "pinte ipa",
+    "product_type": "Beer",
+    "product_id": "609284"
+  },
+  {
+    "brand_name": "Labatt 50",
+    "product_price": 17.39,
+    "product_name": "pot 50",
+    "product_type": "Beer",
+    "product_id": "581628"
+  },
+  {
+    "brand_name": "Labatt 50",
+    "product_price": 7.18,
+    "product_name": "pinte 50",
+    "product_type": "Beer",
+    "product_id": "580970"
+  },
+  {
+    "brand_name": "Alexander Keith's Red",
+    "product_price": 7.61,
+    "product_name": "pinte keiths red",
+    "product_type": "Beer",
+    "product_id": "581184"
+  },
+  {
+    "brand_name": "Shock Top",
+    "product_price": 9.14,
+    "product_name": "pot shock top",
+    "product_type": "Beer",
+    "product_id": "708063"
+  },
+  {
+    "brand_name": "Alexander Keith's Red",
+    "product_price": 18.27,
+    "product_name": "pot keiths red",
+    "product_type": "Beer",
+    "product_id": "708446"
+  },
+  {
+    "brand_name": "Mill St. Cobblestone Stout",
+    "product_price": 8.05,
+    "product_name": "pinte cobble stone",
+    "product_type": "Beer",
+    "product_id": "581186"
+  },
+  {
+    "brand_name": "Goose Island - Honker's Ale",
+    "product_price": 7.83,
+    "product_name": "pinte honkers",
+    "product_type": "Beer",
+    "product_id": "609101"
+  },
+  {
+    "brand_name": "Goose Island - IPA",
+    "product_price": 19.13,
+    "product_name": "pot ipa",
+    "product_type": "Beer",
+    "product_id": "709029"
+  },
+  {
+    "brand_name": "",
+    "product_price": 2.39,
+    "product_name": "cafe 12oz",
+    "product_type": "Non Alcoholic Beverages",
+    "product_id": "619480"
+  },
+  {
+    "brand_name": "",
+    "product_price": 1.75,
+    "product_name": "lait berlingot",
+    "product_type": "Food",
+    "product_id": "623195"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.88,
+    "product_name": "cafe 12oz employe",
+    "product_type": "Non Alcoholic Beverages",
+    "product_id": "619712"
+  },
+  {
+    "brand_name": "",
+    "product_price": 4.95,
+    "product_name": "patate dej",
+    "product_type": "Others",
+    "product_id": "622747"
+  },
+  {
+    "brand_name": "",
+    "product_price": 6.75,
+    "product_name": "b.l.t seul",
+    "product_type": "Food",
+    "product_id": "627354"
+  },
+  {
+    "brand_name": "",
+    "product_price": 9.5,
+    "product_name": "poutine d_jeuner",
+    "product_type": "Food",
+    "product_id": "622959"
+  },
+  {
+    "brand_name": "",
+    "product_price": 4.55,
+    "product_name": "cafe latte",
+    "product_type": "Non Alcoholic Beverages",
+    "product_id": "703891"
+  },
+  {
+    "brand_name": "",
+    "product_price": 3.06,
+    "product_name": "biscuit frais",
+    "product_type": "Food",
+    "product_id": "619842"
+  },
+  {
+    "brand_name": "",
+    "product_price": 3.25,
+    "product_name": "muffin galette",
+    "product_type": "Food",
+    "product_id": "619401"
+  },
+  {
+    "brand_name": "",
+    "product_price": 2.75,
+    "product_name": "chausson pommes",
+    "product_type": "Food",
+    "product_id": "619490"
+  },
+  {
+    "brand_name": "",
+    "product_price": 3.75,
+    "product_name": "quatre quart",
+    "product_type": "Food",
+    "product_id": "619409"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.43,
+    "product_name": "guimauve",
+    "product_type": "Food",
+    "product_id": "619418"
+  },
+  {
+    "brand_name": "",
+    "product_price": 3.75,
+    "product_name": "espresso",
+    "product_type": "Non Alcoholic Beverages",
+    "product_id": "704191"
+  },
+  {
+    "brand_name": "",
+    "product_price": 2.61,
+    "product_name": "eau dasani",
+    "product_type": "Non Alcoholic Beverages",
+    "product_id": "619399"
+  },
+  {
+    "brand_name": "",
+    "product_price": 9.5,
+    "product_name": "2 oeufs viande",
+    "product_type": "Food",
+    "product_id": "622907"
+  },
+  {
+    "brand_name": "",
+    "product_price": 2.5,
+    "product_name": "chocolat",
+    "product_type": "Food",
+    "product_id": "619175"
+  },
+  {
+    "brand_name": "",
+    "product_price": 8.5,
+    "product_name": "1 oeuf viande",
+    "product_type": "Food",
+    "product_id": "622909"
+  },
+  {
+    "brand_name": "",
+    "product_price": 2.82,
+    "product_name": "cafe  16 oz",
+    "product_type": "Non Alcoholic Beverages",
+    "product_id": "619482"
+  },
+  {
+    "brand_name": "",
+    "product_price": 2.0,
+    "product_name": "yogourt",
+    "product_type": "Food",
+    "product_id": "694659"
+  },
+  {
+    "brand_name": "",
+    "product_price": 8.7,
+    "product_name": "soupe du jour",
+    "product_type": "Food",
+    "product_id": "619181"
+  },
+  {
+    "brand_name": "",
+    "product_price": 3.75,
+    "product_name": "gateau maxi",
+    "product_type": "Food",
+    "product_id": "619408"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "breuvage inclus",
+    "product_type": "Non Alcoholic Beverages",
+    "product_id": "569556"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "bacon",
+    "product_type": "Food",
+    "product_id": "569557"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "baguette",
+    "product_type": "Food",
+    "product_id": "569558"
+  },
+  {
+    "brand_name": "",
+    "product_price": 11.0,
+    "product_name": "classique 2 oeufs",
+    "product_type": "Food",
+    "product_id": "569560"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "brouille",
+    "product_type": "Others",
+    "product_id": "569566"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "sans beurre",
+    "product_type": "Food",
+    "product_id": "569575"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "remarque ouvert",
+    "product_type": "Others",
+    "product_id": "581178"
+  },
+  {
+    "brand_name": "",
+    "product_price": 10.0,
+    "product_name": "classique 1 oeuf",
+    "product_type": "Food",
+    "product_id": "707521"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "pain brun",
+    "product_type": "Food",
+    "product_id": "707843"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "tourne",
+    "product_type": "Others",
+    "product_id": "569564"
+  },
+  {
+    "brand_name": "",
+    "product_price": 1.0,
+    "product_name": "creton  extra",
+    "product_type": "Others",
+    "product_id": "623258"
+  },
+  {
+    "brand_name": "",
+    "product_price": 15.0,
+    "product_name": "le sante",
+    "product_type": "Food",
+    "product_id": "707775"
+  },
+  {
+    "brand_name": "",
+    "product_price": 14.0,
+    "product_name": "la cousine",
+    "product_type": "Food",
+    "product_id": "745754"
+  },
+  {
+    "brand_name": "",
+    "product_price": 3.9,
+    "product_name": "gobelet de bonbons",
+    "product_type": "Food",
+    "product_id": "619403"
+  },
+  {
+    "brand_name": "",
+    "product_price": 3.25,
+    "product_name": "minute maid",
+    "product_type": "Non Alcoholic Beverages",
+    "product_id": "619402"
+  },
+  {
+    "brand_name": "",
+    "product_price": 15.0,
+    "product_name": "bene 2o jambon",
+    "product_type": "Food",
+    "product_id": "707777"
+  },
+  {
+    "brand_name": "",
+    "product_price": 15.0,
+    "product_name": "bene 2o s fume",
+    "product_type": "Food",
+    "product_id": "707778"
+  },
+  {
+    "brand_name": "",
+    "product_price": 2.39,
+    "product_name": "cafe 12 oz",
+    "product_type": "Non Alcoholic Beverages",
+    "product_id": "738545"
+  },
+  {
+    "brand_name": "",
+    "product_price": 4.95,
+    "product_name": "frites",
+    "product_type": "Food",
+    "product_id": "619179"
+  },
+  {
+    "brand_name": "",
+    "product_price": 2.39,
+    "product_name": "moyenne liqueur",
+    "product_type": "Non Alcoholic Beverages",
+    "product_id": "619400"
+  },
+  {
+    "brand_name": "",
+    "product_price": 12.25,
+    "product_name": "trio burger poulet",
+    "product_type": "Food",
+    "product_id": "623962"
+  },
+  {
+    "brand_name": "",
+    "product_price": 13.9,
+    "product_name": "grilled cheese",
+    "product_type": "Food",
+    "product_id": "694664"
+  },
+  {
+    "brand_name": "",
+    "product_price": 11.95,
+    "product_name": "menu jour",
+    "product_type": "Food",
+    "product_id": "619215"
+  },
+  {
+    "brand_name": "",
+    "product_price": 7.25,
+    "product_name": "rondelle d'oignon",
+    "product_type": "Food",
+    "product_id": "624582"
+  },
+  {
+    "brand_name": "",
+    "product_price": 10.85,
+    "product_name": "poutine reg.",
+    "product_type": "Food",
+    "product_id": "619224"
+  },
+  {
+    "brand_name": "",
+    "product_price": 2.82,
+    "product_name": "grosse liqueur",
+    "product_type": "Non Alcoholic Beverages",
+    "product_id": "619225"
+  },
+  {
+    "brand_name": "",
+    "product_price": 2.95,
+    "product_name": "pogo",
+    "product_type": "Food",
+    "product_id": "619219"
+  },
+  {
+    "brand_name": "",
+    "product_price": 11.95,
+    "product_name": "trio pizza",
+    "product_type": "Non Alcoholic Beverages",
+    "product_id": "619221"
+  },
+  {
+    "brand_name": "",
+    "product_price": 12.95,
+    "product_name": "trio  cheese burger",
+    "product_type": "Food",
+    "product_id": "623426"
+  },
+  {
+    "brand_name": "",
+    "product_price": 3.0,
+    "product_name": "two-bites",
+    "product_type": "Food",
+    "product_id": "619174"
+  },
+  {
+    "brand_name": "",
+    "product_price": 4.95,
+    "product_name": "sandw triangle",
+    "product_type": "Food",
+    "product_id": "619216"
+  },
+  {
+    "brand_name": "",
+    "product_price": 2.0,
+    "product_name": "jello pouding",
+    "product_type": "Food",
+    "product_id": "619796"
+  },
+  {
+    "brand_name": "",
+    "product_price": 7.95,
+    "product_name": "bebe poutine",
+    "product_type": "Food",
+    "product_id": "619217"
+  },
+  {
+    "brand_name": "",
+    "product_price": 5.5,
+    "product_name": "p0inte pizza",
+    "product_type": "Non Alcoholic Beverages",
+    "product_id": "619223"
+  },
+  {
+    "brand_name": "",
+    "product_price": 4.75,
+    "product_name": "fromage  en grain",
+    "product_type": "Food",
+    "product_id": "708750"
+  },
+  {
+    "brand_name": "",
+    "product_price": 6.25,
+    "product_name": "hamburger",
+    "product_type": "Food",
+    "product_id": "619483"
+  },
+  {
+    "brand_name": "",
+    "product_price": 12.95,
+    "product_name": "trio panini",
+    "product_type": "Food",
+    "product_id": "619479"
+  },
+  {
+    "brand_name": "",
+    "product_price": 3.99,
+    "product_name": "lait to go",
+    "product_type": "Non Alcoholic Beverages",
+    "product_id": "619484"
+  },
+  {
+    "brand_name": "",
+    "product_price": 11.95,
+    "product_name": "spaghetti",
+    "product_type": "Food",
+    "product_id": "619485"
+  },
+  {
+    "brand_name": "",
+    "product_price": 8.95,
+    "product_name": "panini seul",
+    "product_type": "Food",
+    "product_id": "619126"
+  },
+  {
+    "brand_name": "",
+    "product_price": 2.75,
+    "product_name": "sucre creme maison",
+    "product_type": "Food",
+    "product_id": "694657"
+  },
+  {
+    "brand_name": "",
+    "product_price": 3.69,
+    "product_name": "powerade",
+    "product_type": "Non Alcoholic Beverages",
+    "product_id": "619214"
+  },
+  {
+    "brand_name": "",
+    "product_price": 3.75,
+    "product_name": "allonge",
+    "product_type": "Non Alcoholic Beverages",
+    "product_id": "747373"
+  },
+  {
+    "brand_name": "",
+    "product_price": 5.9,
+    "product_name": "hot dog",
+    "product_type": "Food",
+    "product_id": "619178"
+  },
+  {
+    "brand_name": "",
+    "product_price": 2.95,
+    "product_name": "eclair choco",
+    "product_type": "Food",
+    "product_id": "619535"
+  },
+  {
+    "brand_name": "",
+    "product_price": 3.05,
+    "product_name": "coke btle",
+    "product_type": "Non Alcoholic Beverages",
+    "product_id": "619481"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.43,
+    "product_name": "liqueur 16oz employe",
+    "product_type": "Non Alcoholic Beverages",
+    "product_id": "619218"
+  },
+  {
+    "brand_name": "",
+    "product_price": 8.6,
+    "product_name": "trio b.l.t.",
+    "product_type": "Food",
+    "product_id": "623964"
+  },
+  {
+    "brand_name": "",
+    "product_price": 9.75,
+    "product_name": "assiette menu jour",
+    "product_type": "Food",
+    "product_id": "619410"
+  },
+  {
+    "brand_name": "",
+    "product_price": 9.95,
+    "product_name": "bebe italienne",
+    "product_type": "Food",
+    "product_id": "619488"
+  },
+  {
+    "brand_name": "",
+    "product_price": 6.0,
+    "product_name": "yeti",
+    "product_type": "Food",
+    "product_id": "569563"
+  },
+  {
+    "brand_name": "",
+    "product_price": 2.17,
+    "product_name": "coke",
+    "product_type": "Non Alcoholic Beverages",
+    "product_id": "581179"
+  },
+  {
+    "brand_name": "",
+    "product_price": 14.0,
+    "product_name": "cassolette dej",
+    "product_type": "Food",
+    "product_id": "707774"
+  },
+  {
+    "brand_name": "",
+    "product_price": 6.0,
+    "product_name": "petit chef",
+    "product_type": "Food",
+    "product_id": "707842"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "crepe enfant",
+    "product_type": "Others",
+    "product_id": "748460"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "saucisse",
+    "product_type": "Food",
+    "product_id": "569559"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "miroir",
+    "product_type": "Others",
+    "product_id": "569561"
+  },
+  {
+    "brand_name": "",
+    "product_price": 12.95,
+    "product_name": "chili",
+    "product_type": "Food",
+    "product_id": "619406"
+  },
+  {
+    "brand_name": "",
+    "product_price": 7.95,
+    "product_name": "rcr",
+    "product_type": "Food",
+    "product_id": "619489"
+  },
+  {
+    "brand_name": "",
+    "product_price": 4.78,
+    "product_name": "monster 473 ml",
+    "product_type": "Non Alcoholic Beverages",
+    "product_id": "619534"
+  },
+  {
+    "brand_name": "",
+    "product_price": 11.95,
+    "product_name": "trio wrap",
+    "product_type": "Food",
+    "product_id": "623224"
+  },
+  {
+    "brand_name": "",
+    "product_price": 11.95,
+    "product_name": "trio.hot dog",
+    "product_type": "Food",
+    "product_id": "619180"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.85,
+    "product_name": "fruits",
+    "product_type": "Food",
+    "product_id": "619792"
+  },
+  {
+    "brand_name": "",
+    "product_price": 2.17,
+    "product_name": "chocolat chaud",
+    "product_type": "Non Alcoholic Beverages",
+    "product_id": "619717"
+  },
+  {
+    "brand_name": "",
+    "product_price": 12.0,
+    "product_name": "poutine effiloche",
+    "product_type": "Food",
+    "product_id": "620103"
+  },
+  {
+    "brand_name": "",
+    "product_price": 2.17,
+    "product_name": "the ou cafe",
+    "product_type": "Non Alcoholic Beverages",
+    "product_id": "620101"
+  },
+  {
+    "brand_name": "",
+    "product_price": 3.25,
+    "product_name": "slush",
+    "product_type": "Non Alcoholic Beverages",
+    "product_id": "619414"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "tourne creve",
+    "product_type": "Food",
+    "product_id": "569572"
+  },
+  {
+    "brand_name": "",
+    "product_price": 7.5,
+    "product_name": "cheese burger",
+    "product_type": "Food",
+    "product_id": "619220"
+  },
+  {
+    "brand_name": "",
+    "product_price": 3.25,
+    "product_name": "five alive",
+    "product_type": "Non Alcoholic Beverages",
+    "product_id": "623257"
+  },
+  {
+    "brand_name": "",
+    "product_price": 13.95,
+    "product_name": "club sandwich",
+    "product_type": "Food",
+    "product_id": "619536"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.87,
+    "product_name": "liqueur 24 oz employ",
+    "product_type": "Non Alcoholic Beverages",
+    "product_id": "619413"
+  },
+  {
+    "brand_name": "",
+    "product_price": 12.25,
+    "product_name": "trio hamburger",
+    "product_type": "Food",
+    "product_id": "619795"
+  },
+  {
+    "brand_name": "",
+    "product_price": 2.39,
+    "product_name": "the tisane",
+    "product_type": "Non Alcoholic Beverages",
+    "product_id": "623965"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.5,
+    "product_name": "eau chaude",
+    "product_type": "Non Alcoholic Beverages",
+    "product_id": "690018"
+  },
+  {
+    "brand_name": "",
+    "product_price": 15.5,
+    "product_name": "club sandwich",
+    "product_type": "Food",
+    "product_id": "686834"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "poche",
+    "product_type": "Others",
+    "product_id": "738774"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "pain blanc",
+    "product_type": "Others",
+    "product_id": "636274"
+  },
+  {
+    "brand_name": "",
+    "product_price": 3.0,
+    "product_name": "extra 2 assiettes",
+    "product_type": "Others",
+    "product_id": "620251"
+  },
+  {
+    "brand_name": "",
+    "product_price": 8.0,
+    "product_name": "spaghetti  enfant",
+    "product_type": "Food",
+    "product_id": "708014"
+  },
+  {
+    "brand_name": "",
+    "product_price": 6.08,
+    "product_name": "eau minerale",
+    "product_type": "Non Alcoholic Beverages",
+    "product_id": "624945"
+  },
+  {
+    "brand_name": "",
+    "product_price": 18.0,
+    "product_name": "nachos 4 foyers",
+    "product_type": "Food",
+    "product_id": "619415"
+  },
+  {
+    "brand_name": "",
+    "product_price": 4.0,
+    "product_name": "extra poulet",
+    "product_type": "Others",
+    "product_id": "705149"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "jambon",
+    "product_type": "Food",
+    "product_id": "569554"
+  },
+  {
+    "brand_name": "",
+    "product_price": 16.0,
+    "product_name": "coquille st-jacques",
+    "product_type": "Food",
+    "product_id": "707809"
+  },
+  {
+    "brand_name": "",
+    "product_price": 15.0,
+    "product_name": "smoked meat",
+    "product_type": "Food",
+    "product_id": "619711"
+  },
+  {
+    "brand_name": "",
+    "product_price": 16.0,
+    "product_name": "burger 4 foyers",
+    "product_type": "Food",
+    "product_id": "619797"
+  },
+  {
+    "brand_name": "",
+    "product_price": 2.17,
+    "product_name": "coke diet",
+    "product_type": "Non Alcoholic Beverages",
+    "product_id": "619716"
+  },
+  {
+    "brand_name": "",
+    "product_price": 8.0,
+    "product_name": "soupe a l oignon",
+    "product_type": "Food",
+    "product_id": "704878"
+  },
+  {
+    "brand_name": "",
+    "product_price": 12.0,
+    "product_name": "salade legumineuse",
+    "product_type": "Food",
+    "product_id": "707844"
+  },
+  {
+    "brand_name": "",
+    "product_price": 2.17,
+    "product_name": "sprite",
+    "product_type": "Non Alcoholic Beverages",
+    "product_id": "581298"
+  },
+  {
+    "brand_name": "",
+    "product_price": 4.0,
+    "product_name": "extra viande smoked",
+    "product_type": "Others",
+    "product_id": "705064"
+  },
+  {
+    "brand_name": "",
+    "product_price": 5.0,
+    "product_name": "soupe du jour",
+    "product_type": "Food",
+    "product_id": "689909"
+  },
+  {
+    "brand_name": "",
+    "product_price": 14.0,
+    "product_name": "poutine italienne",
+    "product_type": "Food",
+    "product_id": "708064"
+  },
+  {
+    "brand_name": "",
+    "product_price": 3.25,
+    "product_name": "btl gazeuses",
+    "product_type": "Non Alcoholic Beverages",
+    "product_id": "619176"
+  },
+  {
+    "brand_name": "",
+    "product_price": 11.25,
+    "product_name": "soupe repasthai",
+    "product_type": "Food",
+    "product_id": "623479"
+  },
+  {
+    "brand_name": "",
+    "product_price": 2.17,
+    "product_name": "barre kellogs",
+    "product_type": "Food",
+    "product_id": "704874"
+  },
+  {
+    "brand_name": "",
+    "product_price": 7.25,
+    "product_name": "soupe bol en pain",
+    "product_type": "Food",
+    "product_id": "694833"
+  },
+  {
+    "brand_name": "",
+    "product_price": 15.0,
+    "product_name": "fish & chips",
+    "product_type": "Food",
+    "product_id": "619541"
+  },
+  {
+    "brand_name": "",
+    "product_price": 3.0,
+    "product_name": "extra poutine accom",
+    "product_type": "Food",
+    "product_id": "708619"
+  },
+  {
+    "brand_name": "",
+    "product_price": 2.85,
+    "product_name": "brioche",
+    "product_type": "Food",
+    "product_id": "694656"
+  },
+  {
+    "brand_name": "",
+    "product_price": 14.36,
+    "product_name": "cafe baileys fouett",
+    "product_type": "Food",
+    "product_id": "620256"
+  },
+  {
+    "brand_name": "",
+    "product_price": 8.0,
+    "product_name": "burger enfant",
+    "product_type": "Food",
+    "product_id": "711920"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "moutarde douce",
+    "product_type": "Others",
+    "product_id": "619714"
+  },
+  {
+    "brand_name": "",
+    "product_price": 2.61,
+    "product_name": "choco fouette",
+    "product_type": "Non Alcoholic Beverages",
+    "product_id": "619492"
+  },
+  {
+    "brand_name": "",
+    "product_price": 8.0,
+    "product_name": "poutine enfant",
+    "product_type": "Food",
+    "product_id": "711968"
+  },
+  {
+    "brand_name": "",
+    "product_price": 15.0,
+    "product_name": "pizza fine",
+    "product_type": "Non Alcoholic Beverages",
+    "product_id": "727262"
+  },
+  {
+    "brand_name": "",
+    "product_price": 4.75,
+    "product_name": "dejeuner sante",
+    "product_type": "Food",
+    "product_id": "618370"
+  },
+  {
+    "brand_name": "",
+    "product_price": 2.75,
+    "product_name": "dessert du jour",
+    "product_type": "Food",
+    "product_id": "685184"
+  },
+  {
+    "brand_name": "",
+    "product_price": 3.25,
+    "product_name": "yogourt crunch",
+    "product_type": "Food",
+    "product_id": "694658"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "enleve",
+    "product_type": "Others",
+    "product_id": "619798"
+  },
+  {
+    "brand_name": "",
+    "product_price": 16.0,
+    "product_name": "burger crabe",
+    "product_type": "Food",
+    "product_id": "686290"
+  },
+  {
+    "brand_name": "",
+    "product_price": 14.0,
+    "product_name": "orzo  carbonara",
+    "product_type": "Food",
+    "product_id": "705606"
+  },
+  {
+    "brand_name": "",
+    "product_price": 14.0,
+    "product_name": "linguine primavera",
+    "product_type": "Food",
+    "product_id": "708013"
+  },
+  {
+    "brand_name": "",
+    "product_price": 2.85,
+    "product_name": "coke diet btl",
+    "product_type": "Non Alcoholic Beverages",
+    "product_id": "690308"
+  },
+  {
+    "brand_name": "",
+    "product_price": 1.3,
+    "product_name": "petit jus",
+    "product_type": "Non Alcoholic Beverages",
+    "product_id": "619844"
+  },
+  {
+    "brand_name": "",
+    "product_price": 2.5,
+    "product_name": "chips",
+    "product_type": "Food",
+    "product_id": "619124"
+  },
+  {
+    "brand_name": "",
+    "product_price": 4.34,
+    "product_name": "vitamine water",
+    "product_type": "Non Alcoholic Beverages",
+    "product_id": "619478"
+  },
+  {
+    "brand_name": "",
+    "product_price": 16.0,
+    "product_name": "burger vegetarien",
+    "product_type": "Food",
+    "product_id": "708308"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "sans olives",
+    "product_type": "Others",
+    "product_id": "690311"
+  },
+  {
+    "brand_name": "",
+    "product_price": 7.0,
+    "product_name": "hummus ail",
+    "product_type": "Food",
+    "product_id": "710524"
+  },
+  {
+    "brand_name": "",
+    "product_price": 4.0,
+    "product_name": "fromage tortillon",
+    "product_type": "Food",
+    "product_id": "708062"
+  },
+  {
+    "brand_name": "",
+    "product_price": 13.0,
+    "product_name": "spaghetti",
+    "product_type": "Food",
+    "product_id": "686596"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.87,
+    "product_name": "caf 16oz employ",
+    "product_type": "Non Alcoholic Beverages",
+    "product_id": "619902"
+  },
+  {
+    "brand_name": "",
+    "product_price": 1.25,
+    "product_name": "extra sauce",
+    "product_type": "Others",
+    "product_id": "619791"
+  },
+  {
+    "brand_name": "",
+    "product_price": 7.95,
+    "product_name": "wrap seul",
+    "product_type": "Food",
+    "product_id": "619713"
+  },
+  {
+    "brand_name": "",
+    "product_price": 3.25,
+    "product_name": "nestea",
+    "product_type": "Non Alcoholic Beverages",
+    "product_id": "619125"
+  },
+  {
+    "brand_name": "",
+    "product_price": 1.75,
+    "product_name": "sac de chip",
+    "product_type": "Food",
+    "product_id": "581299"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "original",
+    "product_type": "Others",
+    "product_id": "620252"
+  },
+  {
+    "brand_name": "",
+    "product_price": 6.0,
+    "product_name": "frite mayo",
+    "product_type": "Food",
+    "product_id": "619493"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "mayo harrissa",
+    "product_type": "Others",
+    "product_id": "619494"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "mayo nature",
+    "product_type": "Food",
+    "product_id": "619799"
+  },
+  {
+    "brand_name": "",
+    "product_price": 2.0,
+    "product_name": "extra guacamole",
+    "product_type": "Others",
+    "product_id": "695515"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.34,
+    "product_name": "extra creme sure",
+    "product_type": "Others",
+    "product_id": "619417"
+  },
+  {
+    "brand_name": "",
+    "product_price": 5.65,
+    "product_name": "dry gin",
+    "product_type": "Spirits",
+    "product_id": "585882"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "===>avec sprite",
+    "product_type": "Others",
+    "product_id": "620750"
+  },
+  {
+    "brand_name": "",
+    "product_price": 9.0,
+    "product_name": "fondue miche",
+    "product_type": "Food",
+    "product_id": "732021"
+  },
+  {
+    "brand_name": "",
+    "product_price": 3.04,
+    "product_name": "limonade",
+    "product_type": "Non Alcoholic Beverages",
+    "product_id": "619847"
+  },
+  {
+    "brand_name": "",
+    "product_price": 15.0,
+    "product_name": "ailes (12)",
+    "product_type": "Food",
+    "product_id": "581182"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "sauce redhot",
+    "product_type": "Food",
+    "product_id": "619539"
+  },
+  {
+    "brand_name": "",
+    "product_price": 7.83,
+    "product_name": "marguarita",
+    "product_type": "Spirits",
+    "product_id": "750255"
+  },
+  {
+    "brand_name": "",
+    "product_price": 2.95,
+    "product_name": "honey bar",
+    "product_type": "Food",
+    "product_id": "685688"
+  },
+  {
+    "brand_name": "",
+    "product_price": 10.0,
+    "product_name": "calmars frits",
+    "product_type": "Food",
+    "product_id": "619708"
+  },
+  {
+    "brand_name": "",
+    "product_price": 4.0,
+    "product_name": "jus legumes",
+    "product_type": "Non Alcoholic Beverages",
+    "product_id": "619538"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "===>avec coke",
+    "product_type": "Others",
+    "product_id": "609362"
+  },
+  {
+    "brand_name": "",
+    "product_price": 5.65,
+    "product_name": "captn spice",
+    "product_type": "Spirits",
+    "product_id": "620745"
+  },
+  {
+    "brand_name": "",
+    "product_price": 2.0,
+    "product_name": "extra 2.00 patrouil",
+    "product_type": "Others",
+    "product_id": "619794"
+  },
+  {
+    "brand_name": "Budweiser",
+    "product_price": 5.43,
+    "product_name": "bud",
+    "product_type": "Beer",
+    "product_id": "581176"
+  },
+  {
+    "brand_name": "Hoegaarden",
+    "product_price": 7.39,
+    "product_name": "hoegaarden",
+    "product_type": "Beer",
+    "product_id": "709543"
+  },
+  {
+    "brand_name": "Stella Artois",
+    "product_price": 7.39,
+    "product_name": "stella artois",
+    "product_type": "Beer",
+    "product_id": "619411"
+  },
+  {
+    "brand_name": "Mill St. Organic Lager",
+    "product_price": 19.13,
+    "product_name": "pot organic",
+    "product_type": "Beer",
+    "product_id": "708102"
+  },
+  {
+    "brand_name": "Goose Island - Honker's Ale",
+    "product_price": 19.13,
+    "product_name": "pot honkers",
+    "product_type": "Beer",
+    "product_id": "708749"
+  },
+  {
+    "brand_name": "Stella Artois",
+    "product_price": 8.48,
+    "product_name": "pinte stella",
+    "product_type": "Beer",
+    "product_id": "609098"
+  },
+  {
+    "brand_name": "",
+    "product_price": 15.66,
+    "product_name": "cafe stoneham",
+    "product_type": "Food",
+    "product_id": "708620"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "mayo wasabi",
+    "product_type": "Others",
+    "product_id": "696002"
+  },
+  {
+    "brand_name": "",
+    "product_price": 3.0,
+    "product_name": "extra poutine",
+    "product_type": "Others",
+    "product_id": "619222"
+  },
+  {
+    "brand_name": "",
+    "product_price": 13.95,
+    "product_name": "trio burger rcr",
+    "product_type": "Food",
+    "product_id": "619840"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "sce from bleu",
+    "product_type": "Food",
+    "product_id": "619487"
+  },
+  {
+    "brand_name": "",
+    "product_price": 2.17,
+    "product_name": "shirley temple",
+    "product_type": "Non Alcoholic Beverages",
+    "product_id": "655063"
+  },
+  {
+    "brand_name": "",
+    "product_price": 5.65,
+    "product_name": "rhum appleton",
+    "product_type": "Spirits",
+    "product_id": "585626"
+  },
+  {
+    "brand_name": "",
+    "product_price": 6.0,
+    "product_name": "v cliff chardo",
+    "product_type": "Wine",
+    "product_id": "585627"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "pas de sauce",
+    "product_type": "Food",
+    "product_id": "705603"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "sauce a cote",
+    "product_type": "Food",
+    "product_id": "750565"
+  },
+  {
+    "brand_name": "",
+    "product_price": 8.0,
+    "product_name": "ailes (6)",
+    "product_type": "Food",
+    "product_id": "619486"
+  },
+  {
+    "brand_name": "",
+    "product_price": 11.95,
+    "product_name": "trio p0g0",
+    "product_type": "Food",
+    "product_id": "623260"
+  },
+  {
+    "brand_name": "",
+    "product_price": 9.0,
+    "product_name": "v  el coto",
+    "product_type": "Wine",
+    "product_id": "713150"
+  },
+  {
+    "brand_name": "",
+    "product_price": 6.95,
+    "product_name": "bloody stoneham",
+    "product_type": "Spirits",
+    "product_id": "690543"
+  },
+  {
+    "brand_name": "",
+    "product_price": 6.95,
+    "product_name": "black russian",
+    "product_type": "Spirits",
+    "product_id": "701297"
+  },
+  {
+    "brand_name": "",
+    "product_price": 15.0,
+    "product_name": "burger ptit cochon",
+    "product_type": "Food",
+    "product_id": "686237"
+  },
+  {
+    "brand_name": "",
+    "product_price": 2.17,
+    "product_name": "the glace",
+    "product_type": "Non Alcoholic Beverages",
+    "product_id": "701551"
+  },
+  {
+    "brand_name": "",
+    "product_price": 6.95,
+    "product_name": "bloody ceasar",
+    "product_type": "Spirits",
+    "product_id": "580971"
+  },
+  {
+    "brand_name": "",
+    "product_price": 9.25,
+    "product_name": "frites famille",
+    "product_type": "Food",
+    "product_id": "619405"
+  },
+  {
+    "brand_name": "",
+    "product_price": 2.0,
+    "product_name": "extra mozzarella",
+    "product_type": "Others",
+    "product_id": "695097"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "ailes (6) fo",
+    "product_type": "Food",
+    "product_id": "713148"
+  },
+  {
+    "brand_name": "",
+    "product_price": 1.0,
+    "product_name": "extra mayonnaise",
+    "product_type": "Others",
+    "product_id": "619720"
+  },
+  {
+    "brand_name": "",
+    "product_price": 19.0,
+    "product_name": "onglet frite sal",
+    "product_type": "Food",
+    "product_id": "708405"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "saignant",
+    "product_type": "Others",
+    "product_id": "708406"
+  },
+  {
+    "brand_name": "",
+    "product_price": 5.0,
+    "product_name": "extra pout effiloch_",
+    "product_type": "Others",
+    "product_id": "620104"
+  },
+  {
+    "brand_name": "",
+    "product_price": 5.65,
+    "product_name": "abricot brandy seul",
+    "product_type": "Spirits",
+    "product_id": "620746"
+  },
+  {
+    "brand_name": "",
+    "product_price": 6.0,
+    "product_name": "mousse choco",
+    "product_type": "Food",
+    "product_id": "653711"
+  },
+  {
+    "brand_name": "",
+    "product_price": 7.17,
+    "product_name": "mikes hard",
+    "product_type": "Spirits",
+    "product_id": "624525"
+  },
+  {
+    "brand_name": "",
+    "product_price": 12.0,
+    "product_name": "poutine",
+    "product_type": "Food",
+    "product_id": "709033"
+  },
+  {
+    "brand_name": "",
+    "product_price": 27.0,
+    "product_name": "cliff 79 chardo",
+    "product_type": "Wine",
+    "product_id": "638942"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "sans frites",
+    "product_type": "Others",
+    "product_id": "695957"
+  },
+  {
+    "brand_name": "",
+    "product_price": 26.0,
+    "product_name": "contrefilet",
+    "product_type": "Food",
+    "product_id": "715877"
+  },
+  {
+    "brand_name": "",
+    "product_price": 6.95,
+    "product_name": "bloody mary",
+    "product_type": "Spirits",
+    "product_id": "751080"
+  },
+  {
+    "brand_name": "",
+    "product_price": 2.0,
+    "product_name": "extra bacon",
+    "product_type": "Others",
+    "product_id": "569568"
+  },
+  {
+    "brand_name": "",
+    "product_price": 28.0,
+    "product_name": "filet mignon",
+    "product_type": "Food",
+    "product_id": "739056"
+  },
+  {
+    "brand_name": "",
+    "product_price": 6.95,
+    "product_name": "lagon bleu",
+    "product_type": "Spirits",
+    "product_id": "751151"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "===>avec jus pomme",
+    "product_type": "Others",
+    "product_id": "653713"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "medium saignant",
+    "product_type": "Others",
+    "product_id": "690186"
+  },
+  {
+    "brand_name": "",
+    "product_price": 7.83,
+    "product_name": "cafe bresilien",
+    "product_type": "Food",
+    "product_id": "707773"
+  },
+  {
+    "brand_name": "",
+    "product_price": 12.0,
+    "product_name": "fondant brie",
+    "product_type": "Food",
+    "product_id": "708756"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "moutarde forte",
+    "product_type": "Others",
+    "product_id": "619800"
+  },
+  {
+    "brand_name": "",
+    "product_price": 4.35,
+    "product_name": "virgin ceasar",
+    "product_type": "Non Alcoholic Beverages",
+    "product_id": "585710"
+  },
+  {
+    "brand_name": "",
+    "product_price": 6.0,
+    "product_name": "v cliff 79  rg",
+    "product_type": "Wine",
+    "product_id": "581181"
+  },
+  {
+    "brand_name": "",
+    "product_price": 13.92,
+    "product_name": "tequila sh.",
+    "product_type": "Spirits",
+    "product_id": "620623"
+  },
+  {
+    "brand_name": "",
+    "product_price": 4.5,
+    "product_name": "petite salade",
+    "product_type": "Food",
+    "product_id": "619404"
+  },
+  {
+    "brand_name": "",
+    "product_price": 2.8,
+    "product_name": "fireball",
+    "product_type": "Spirits",
+    "product_id": "620748"
+  },
+  {
+    "brand_name": "",
+    "product_price": 13.92,
+    "product_name": "vodka sh.",
+    "product_type": "Spirits",
+    "product_id": "582121"
+  },
+  {
+    "brand_name": "",
+    "product_price": 5.65,
+    "product_name": "jack daniels",
+    "product_type": "Spirits",
+    "product_id": "620099"
+  },
+  {
+    "brand_name": "",
+    "product_price": 7.0,
+    "product_name": "v rh phillips",
+    "product_type": "Wine",
+    "product_id": "737597"
+  },
+  {
+    "brand_name": "",
+    "product_price": 8.0,
+    "product_name": "v scia",
+    "product_type": "Wine",
+    "product_id": "751239"
+  },
+  {
+    "brand_name": "",
+    "product_price": 13.92,
+    "product_name": "jameson sh",
+    "product_type": "Spirits",
+    "product_id": "582122"
+  },
+  {
+    "brand_name": "",
+    "product_price": 2.0,
+    "product_name": "extra fr cheddar",
+    "product_type": "Others",
+    "product_id": "724416"
+  },
+  {
+    "brand_name": "",
+    "product_price": 5.65,
+    "product_name": "vodka",
+    "product_type": "Spirits",
+    "product_id": "581793"
+  },
+  {
+    "brand_name": "",
+    "product_price": 14.0,
+    "product_name": "divers nourriture",
+    "product_type": "Food",
+    "product_id": "686238"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "===>avec tonic water",
+    "product_type": "Non Alcoholic Beverages",
+    "product_id": "581865"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "===+avec canneberge",
+    "product_type": "Others",
+    "product_id": "620451"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "sans tomate",
+    "product_type": "Others",
+    "product_id": "695516"
+  },
+  {
+    "brand_name": "",
+    "product_price": 24.5,
+    "product_name": "dejeuner stoneham",
+    "product_type": "Food",
+    "product_id": "622960"
+  },
+  {
+    "brand_name": "",
+    "product_price": 1.5,
+    "product_name": "extra saussice reg",
+    "product_type": "Others",
+    "product_id": "624272"
+  },
+  {
+    "brand_name": "",
+    "product_price": 7.5,
+    "product_name": "1 oeuf seul",
+    "product_type": "Food",
+    "product_id": "689192"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "soupe incluse menu",
+    "product_type": "Food",
+    "product_id": "642064"
+  },
+  {
+    "brand_name": "",
+    "product_price": 1.25,
+    "product_name": "dessert employe",
+    "product_type": "Non Alcoholic Beverages",
+    "product_id": "685349"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "breuvage inclus menu",
+    "product_type": "Food",
+    "product_id": "642063"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "dessert inclu menu",
+    "product_type": "Food",
+    "product_id": "645032"
+  },
+  {
+    "brand_name": "",
+    "product_price": 5.65,
+    "product_name": "cognac bar",
+    "product_type": "Spirits",
+    "product_id": "581345"
+  },
+  {
+    "brand_name": "",
+    "product_price": 3.91,
+    "product_name": "cafe lait bol",
+    "product_type": "Non Alcoholic Beverages",
+    "product_id": "623226"
+  },
+  {
+    "brand_name": "",
+    "product_price": 3.5,
+    "product_name": "crudites",
+    "product_type": "Food",
+    "product_id": "694663"
+  },
+  {
+    "brand_name": "",
+    "product_price": 13.95,
+    "product_name": "general tao",
+    "product_type": "Food",
+    "product_id": "623728"
+  },
+  {
+    "brand_name": "",
+    "product_price": 3.0,
+    "product_name": "gateau choco browni",
+    "product_type": "Food",
+    "product_id": "728595"
+  },
+  {
+    "brand_name": "",
+    "product_price": 8.0,
+    "product_name": "salade du moment",
+    "product_type": "Food",
+    "product_id": "715879"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.65,
+    "product_name": "chaser",
+    "product_type": "Non Alcoholic Beverages",
+    "product_id": "622366"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "===>clamato",
+    "product_type": "Others",
+    "product_id": "695514"
+  },
+  {
+    "brand_name": "",
+    "product_price": 6.52,
+    "product_name": "cafe baileys",
+    "product_type": "Spirits",
+    "product_id": "620246"
+  },
+  {
+    "brand_name": "",
+    "product_price": 19.0,
+    "product_name": "saumon",
+    "product_type": "Food",
+    "product_id": "708754"
+  },
+  {
+    "brand_name": "",
+    "product_price": 12.0,
+    "product_name": "v ch maligny",
+    "product_type": "Wine",
+    "product_id": "619906"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "==== soda",
+    "product_type": "Others",
+    "product_id": "620249"
+  },
+  {
+    "brand_name": "",
+    "product_price": 2.19,
+    "product_name": "ginger ale",
+    "product_type": "Non Alcoholic Beverages",
+    "product_id": "739608"
+  },
+  {
+    "brand_name": "",
+    "product_price": 17.5,
+    "product_name": "sandwich stoneham",
+    "product_type": "Food",
+    "product_id": "622914"
+  },
+  {
+    "brand_name": "",
+    "product_price": 4.25,
+    "product_name": "bagel seul",
+    "product_type": "Food",
+    "product_id": "622910"
+  },
+  {
+    "brand_name": "",
+    "product_price": 2.0,
+    "product_name": "oeuf extra",
+    "product_type": "Food",
+    "product_id": "623259"
+  },
+  {
+    "brand_name": "",
+    "product_price": 3.25,
+    "product_name": "roties  seul",
+    "product_type": "Food",
+    "product_id": "622913"
+  },
+  {
+    "brand_name": "",
+    "product_price": 5.65,
+    "product_name": "canadian club",
+    "product_type": "Spirits",
+    "product_id": "581627"
+  },
+  {
+    "brand_name": "",
+    "product_price": 5.65,
+    "product_name": "bailey s",
+    "product_type": "Food",
+    "product_id": "586990"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "cafe menu du jour",
+    "product_type": "Food",
+    "product_id": "642065"
+  },
+  {
+    "brand_name": "",
+    "product_price": 7.25,
+    "product_name": "natchos",
+    "product_type": "Food",
+    "product_id": "620188"
+  },
+  {
+    "brand_name": "",
+    "product_price": 3.75,
+    "product_name": "1 salsa ou 1 fromag",
+    "product_type": "Food",
+    "product_id": "704097"
+  },
+  {
+    "brand_name": "",
+    "product_price": 7.0,
+    "product_name": "v s sablette",
+    "product_type": "Wine",
+    "product_id": "712493"
+  },
+  {
+    "brand_name": "",
+    "product_price": 1.78,
+    "product_name": "petit pain",
+    "product_type": "Others",
+    "product_id": "624526"
+  },
+  {
+    "brand_name": "",
+    "product_price": 10.44,
+    "product_name": "jagermeister",
+    "product_type": "Spirits",
+    "product_id": "581296"
+  },
+  {
+    "brand_name": "",
+    "product_price": 4.13,
+    "product_name": "monster 250 ml",
+    "product_type": "Non Alcoholic Beverages",
+    "product_id": "732755"
+  },
+  {
+    "brand_name": "",
+    "product_price": 4.13,
+    "product_name": "eau  badoit",
+    "product_type": "Non Alcoholic Beverages",
+    "product_id": "619537"
+  },
+  {
+    "brand_name": "",
+    "product_price": 26.85,
+    "product_name": "famillial hotdog",
+    "product_type": "Food",
+    "product_id": "694599"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.22,
+    "product_name": "verre vide",
+    "product_type": "Others",
+    "product_id": "686289"
+  },
+  {
+    "brand_name": "",
+    "product_price": 7.0,
+    "product_name": "v septima",
+    "product_type": "Wine",
+    "product_id": "759359"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "mayo ail",
+    "product_type": "Food",
+    "product_id": "619841"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "sans champignons",
+    "product_type": "Others",
+    "product_id": "759421"
+  },
+  {
+    "brand_name": "",
+    "product_price": 2.83,
+    "product_name": "dasani eau",
+    "product_type": "Non Alcoholic Beverages",
+    "product_id": "710589"
+  },
+  {
+    "brand_name": "",
+    "product_price": 9.5,
+    "product_name": "boite lunch enfant",
+    "product_type": "Food",
+    "product_id": "685726"
+  },
+  {
+    "brand_name": "Alexander Keith's Red",
+    "product_price": 12.16,
+    "product_name": "keith's rousse",
+    "product_type": "Beer",
+    "product_id": "619903"
+  },
+  {
+    "brand_name": "Corona Extra",
+    "product_price": 6.96,
+    "product_name": "corona",
+    "product_type": "Beer",
+    "product_id": "622360"
+  },
+  {
+    "brand_name": "Stella Artois",
+    "product_price": 20.88,
+    "product_name": "pot stella",
+    "product_type": "Beer",
+    "product_id": "708101"
+  },
+  {
+    "brand_name": "",
+    "product_price": 6.96,
+    "product_name": "sortilege",
+    "product_type": "Spirits",
+    "product_id": "581911"
+  },
+  {
+    "brand_name": "",
+    "product_price": 8.0,
+    "product_name": "filets poulet enfan",
+    "product_type": "Food",
+    "product_id": "709091"
+  },
+  {
+    "brand_name": "",
+    "product_price": 4.78,
+    "product_name": "allonge",
+    "product_type": "Non Alcoholic Beverages",
+    "product_id": "708447"
+  },
+  {
+    "brand_name": "",
+    "product_price": 3.04,
+    "product_name": "gros jus",
+    "product_type": "Non Alcoholic Beverages",
+    "product_id": "648017"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "sans cornichon",
+    "product_type": "Others",
+    "product_id": "620247"
+  },
+  {
+    "brand_name": "",
+    "product_price": 47.0,
+    "product_name": "ch lauret st-emilion",
+    "product_type": "Wine",
+    "product_id": "735800"
+  },
+  {
+    "brand_name": "",
+    "product_price": 1.0,
+    "product_name": "extra olives",
+    "product_type": "Others",
+    "product_id": "759811"
+  },
+  {
+    "brand_name": "",
+    "product_price": 6.95,
+    "product_name": "long island",
+    "product_type": "Spirits",
+    "product_id": "586562"
+  },
+  {
+    "brand_name": "",
+    "product_price": 6.95,
+    "product_name": "sex on beach",
+    "product_type": "Spirits",
+    "product_id": "620626"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "===>avec jus ananas",
+    "product_type": "Others",
+    "product_id": "655067"
+  },
+  {
+    "brand_name": "",
+    "product_price": 5.65,
+    "product_name": "jameson",
+    "product_type": "Spirits",
+    "product_id": "625193"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "===>avec ginger ale",
+    "product_type": "Others",
+    "product_id": "702160"
+  },
+  {
+    "brand_name": "",
+    "product_price": 6.95,
+    "product_name": "abricot sour",
+    "product_type": "Spirits",
+    "product_id": "620259"
+  },
+  {
+    "brand_name": "",
+    "product_price": 5.65,
+    "product_name": "frangelico",
+    "product_type": "Food",
+    "product_id": "638993"
+  },
+  {
+    "brand_name": "",
+    "product_price": 6.74,
+    "product_name": "chivas",
+    "product_type": "Food",
+    "product_id": "625194"
+  },
+  {
+    "brand_name": "",
+    "product_price": 2.0,
+    "product_name": "extra cesar",
+    "product_type": "Others",
+    "product_id": "739057"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "ketchup",
+    "product_type": "Others",
+    "product_id": "664439"
+  },
+  {
+    "brand_name": "",
+    "product_price": 11.3,
+    "product_name": "creme menthe blanch",
+    "product_type": "Food",
+    "product_id": "586988"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "menage blanc",
+    "product_type": "Others",
+    "product_id": "761542"
+  },
+  {
+    "brand_name": "",
+    "product_price": 4.6,
+    "product_name": "cereale lait",
+    "product_type": "Food",
+    "product_id": "689392"
+  },
+  {
+    "brand_name": "",
+    "product_price": 2.17,
+    "product_name": "cafe choco",
+    "product_type": "Non Alcoholic Beverages",
+    "product_id": "655073"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "sans bacon",
+    "product_type": "Others",
+    "product_id": "695956"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.89,
+    "product_name": "tranche fromage",
+    "product_type": "Others",
+    "product_id": "619790"
+  },
+  {
+    "brand_name": "",
+    "product_price": 5.0,
+    "product_name": "extra pout italie",
+    "product_type": "Food",
+    "product_id": "712749"
+  },
+  {
+    "brand_name": "",
+    "product_price": 3.91,
+    "product_name": "eau minerale",
+    "product_type": "Non Alcoholic Beverages",
+    "product_id": "581626"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "sel &  vinaigre",
+    "product_type": "Others",
+    "product_id": "620102"
+  },
+  {
+    "brand_name": "",
+    "product_price": 2.83,
+    "product_name": "sprite btle",
+    "product_type": "Non Alcoholic Beverages",
+    "product_id": "625623"
+  },
+  {
+    "brand_name": "",
+    "product_price": 1.75,
+    "product_name": "bouillon de poulet",
+    "product_type": "Others",
+    "product_id": "704873"
+  },
+  {
+    "brand_name": "",
+    "product_price": 5.75,
+    "product_name": "croquettes poulet 6",
+    "product_type": "Food",
+    "product_id": "694600"
+  },
+  {
+    "brand_name": "",
+    "product_price": 3.48,
+    "product_name": "jack dan sh.",
+    "product_type": "Spirits",
+    "product_id": "581015"
+  },
+  {
+    "brand_name": "",
+    "product_price": 16.95,
+    "product_name": "rhum blanc",
+    "product_type": "Spirits",
+    "product_id": "711969"
+  },
+  {
+    "brand_name": "",
+    "product_price": 6.25,
+    "product_name": "hamburger poulet",
+    "product_type": "Food",
+    "product_id": "619177"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "===>avec jus orange",
+    "product_type": "Others",
+    "product_id": "623666"
+  },
+  {
+    "brand_name": "",
+    "product_price": 14.0,
+    "product_name": "demi nacho 4 foyers",
+    "product_type": "Food",
+    "product_id": "709329"
+  },
+  {
+    "brand_name": "",
+    "product_price": 20.0,
+    "product_name": "ravioli boeuf repas",
+    "product_type": "Food",
+    "product_id": "705517"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "sans poivrons",
+    "product_type": "Others",
+    "product_id": "763041"
+  },
+  {
+    "brand_name": "",
+    "product_price": 10.0,
+    "product_name": "v mondavi cab",
+    "product_type": "Wine",
+    "product_id": "763088"
+  },
+  {
+    "brand_name": "",
+    "product_price": 6.74,
+    "product_name": "glenfidish",
+    "product_type": "Spirits",
+    "product_id": "621279"
+  },
+  {
+    "brand_name": "",
+    "product_price": 3.48,
+    "product_name": "captnspice sh",
+    "product_type": "Spirits",
+    "product_id": "620187"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "medium",
+    "product_type": "Others",
+    "product_id": "709410"
+  },
+  {
+    "brand_name": "",
+    "product_price": 27.0,
+    "product_name": "cliff 79 cab/shiraz",
+    "product_type": "Wine",
+    "product_id": "624946"
+  },
+  {
+    "brand_name": "",
+    "product_price": 13.9,
+    "product_name": "stinger",
+    "product_type": "Spirits",
+    "product_id": "701618"
+  },
+  {
+    "brand_name": "",
+    "product_price": 5.65,
+    "product_name": "tia maria",
+    "product_type": "Food",
+    "product_id": "621003"
+  },
+  {
+    "brand_name": "",
+    "product_price": 1.74,
+    "product_name": "extra chocolat chaud",
+    "product_type": "Non Alcoholic Beverages",
+    "product_id": "728597"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "sans piment fort",
+    "product_type": "Others",
+    "product_id": "690268"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "bbq",
+    "product_type": "Food",
+    "product_id": "620452"
+  },
+  {
+    "brand_name": "",
+    "product_price": 13.92,
+    "product_name": "sh jack miel",
+    "product_type": "Spirits",
+    "product_id": "581185"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "sans glace",
+    "product_type": "Others",
+    "product_id": "763789"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "ailes (12) fo",
+    "product_type": "Food",
+    "product_id": "764030"
+  },
+  {
+    "brand_name": "",
+    "product_price": 3.48,
+    "product_name": "schnapp p. sh",
+    "product_type": "Spirits",
+    "product_id": "764039"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "menage brun",
+    "product_type": "Others",
+    "product_id": "765138"
+  },
+  {
+    "brand_name": "",
+    "product_price": 4.55,
+    "product_name": "expresso double",
+    "product_type": "Food",
+    "product_id": "765171"
+  },
+  {
+    "brand_name": "",
+    "product_price": 4.0,
+    "product_name": "sac pop corn",
+    "product_type": "Food",
+    "product_id": "707808"
+  },
+  {
+    "brand_name": "",
+    "product_price": 2.5,
+    "product_name": "tube peanut",
+    "product_type": "Food",
+    "product_id": "765388"
+  },
+  {
+    "brand_name": "",
+    "product_price": 8.95,
+    "product_name": "trio grilled cheese",
+    "product_type": "Food",
+    "product_id": "694661"
+  },
+  {
+    "brand_name": "",
+    "product_price": 4.55,
+    "product_name": "cappucino",
+    "product_type": "Non Alcoholic Beverages",
+    "product_id": "707480"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "sans frite",
+    "product_type": "Others",
+    "product_id": "765530"
+  },
+  {
+    "brand_name": "",
+    "product_price": 1.5,
+    "product_name": "bouteille trio",
+    "product_type": "Non Alcoholic Beverages",
+    "product_id": "765789"
+  },
+  {
+    "brand_name": "",
+    "product_price": 14.5,
+    "product_name": "pout reg italienne",
+    "product_type": "Food",
+    "product_id": "619419"
+  },
+  {
+    "brand_name": "",
+    "product_price": 2.61,
+    "product_name": "coke",
+    "product_type": "Non Alcoholic Beverages",
+    "product_id": "766414"
+  },
+  {
+    "brand_name": "",
+    "product_price": 7.83,
+    "product_name": "dry martini",
+    "product_type": "Spirits",
+    "product_id": "586989"
+  },
+  {
+    "brand_name": "",
+    "product_price": 6.74,
+    "product_name": "grand marnier",
+    "product_type": "Food",
+    "product_id": "581791"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "dessert enfants",
+    "product_type": "Food",
+    "product_id": "738972"
+  },
+  {
+    "brand_name": "",
+    "product_price": 7.0,
+    "product_name": "v coli pinot grigio",
+    "product_type": "Wine",
+    "product_id": "766717"
+  },
+  {
+    "brand_name": "",
+    "product_price": 48.0,
+    "product_name": "velvet devil",
+    "product_type": "Wine",
+    "product_id": "638935"
+  },
+  {
+    "brand_name": "",
+    "product_price": 5.21,
+    "product_name": "amaretto",
+    "product_type": "Food",
+    "product_id": "586672"
+  },
+  {
+    "brand_name": "",
+    "product_price": 2.61,
+    "product_name": "shirley temple",
+    "product_type": "Non Alcoholic Beverages",
+    "product_id": "766781"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "hummus fo",
+    "product_type": "Food",
+    "product_id": "766859"
+  },
+  {
+    "brand_name": "",
+    "product_price": 2.61,
+    "product_name": "sprite",
+    "product_type": "Non Alcoholic Beverages",
+    "product_id": "766860"
+  },
+  {
+    "brand_name": "",
+    "product_price": 5.0,
+    "product_name": "extra pull pork",
+    "product_type": "Others",
+    "product_id": "705520"
+  },
+  {
+    "brand_name": "",
+    "product_price": 11.3,
+    "product_name": "dr pepper",
+    "product_type": "Spirits",
+    "product_id": "706026"
+  },
+  {
+    "brand_name": "",
+    "product_price": 5.65,
+    "product_name": "sch.  peche",
+    "product_type": "Spirits",
+    "product_id": "582120"
+  },
+  {
+    "brand_name": "",
+    "product_price": 6.95,
+    "product_name": "coco cognac",
+    "product_type": "Spirits",
+    "product_id": "701296"
+  },
+  {
+    "brand_name": "",
+    "product_price": 165.0,
+    "product_name": "scia",
+    "product_type": "Wine",
+    "product_id": "705612"
+  },
+  {
+    "brand_name": "",
+    "product_price": 352.0,
+    "product_name": "rh phillips",
+    "product_type": "Wine",
+    "product_id": "735735"
+  },
+  {
+    "brand_name": "",
+    "product_price": 7.83,
+    "product_name": "cafe espagnol",
+    "product_type": "Food",
+    "product_id": "766940"
+  },
+  {
+    "brand_name": "",
+    "product_price": 186.0,
+    "product_name": "jaleo blanc",
+    "product_type": "Wine",
+    "product_id": "766941"
+  },
+  {
+    "brand_name": "",
+    "product_price": 30.0,
+    "product_name": "nuviana",
+    "product_type": "Wine",
+    "product_id": "767152"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "ne pas faire",
+    "product_type": "Others",
+    "product_id": "690307"
+  },
+  {
+    "brand_name": "",
+    "product_price": 15.64,
+    "product_name": "b-52",
+    "product_type": "Spirits",
+    "product_id": "741011"
+  },
+  {
+    "brand_name": "",
+    "product_price": 37.0,
+    "product_name": "woodbridge",
+    "product_type": "Wine",
+    "product_id": "767153"
+  },
+  {
+    "brand_name": "",
+    "product_price": 12.0,
+    "product_name": "gravlax saumon entre",
+    "product_type": "Food",
+    "product_id": "705224"
+  },
+  {
+    "brand_name": "",
+    "product_price": 44.0,
+    "product_name": "mondavi cab",
+    "product_type": "Wine",
+    "product_id": "701554"
+  },
+  {
+    "brand_name": "",
+    "product_price": 26.0,
+    "product_name": "magret canard repas",
+    "product_type": "Food",
+    "product_id": "705299"
+  },
+  {
+    "brand_name": "",
+    "product_price": 35.0,
+    "product_name": "carre agneau repas",
+    "product_type": "Food",
+    "product_id": "705755"
+  },
+  {
+    "brand_name": "",
+    "product_price": 7.83,
+    "product_name": "vodka  energie",
+    "product_type": "Spirits",
+    "product_id": "620625"
+  },
+  {
+    "brand_name": "",
+    "product_price": 11.3,
+    "product_name": "southern comfort",
+    "product_type": "Spirits",
+    "product_id": "586714"
+  },
+  {
+    "brand_name": "",
+    "product_price": 8.7,
+    "product_name": "upper cut",
+    "product_type": "Spirits",
+    "product_id": "622434"
+  },
+  {
+    "brand_name": "",
+    "product_price": 10.44,
+    "product_name": "sambuca sh.",
+    "product_type": "Spirits",
+    "product_id": "694834"
+  },
+  {
+    "brand_name": "",
+    "product_price": 7.83,
+    "product_name": "apple-tini",
+    "product_type": "Spirits",
+    "product_id": "767638"
+  },
+  {
+    "brand_name": "",
+    "product_price": 14.34,
+    "product_name": "malibu",
+    "product_type": "Spirits",
+    "product_id": "767639"
+  },
+  {
+    "brand_name": "",
+    "product_price": 10.0,
+    "product_name": "cognac vsop",
+    "product_type": "Food",
+    "product_id": "701190"
+  },
+  {
+    "brand_name": "",
+    "product_price": 19.55,
+    "product_name": "marteau",
+    "product_type": "Spirits",
+    "product_id": "767931"
+  },
+  {
+    "brand_name": "",
+    "product_price": 11.3,
+    "product_name": "sambuca",
+    "product_type": "Food",
+    "product_id": "706084"
+  },
+  {
+    "brand_name": "",
+    "product_price": 5.65,
+    "product_name": "amarula",
+    "product_type": "Food",
+    "product_id": "709544"
+  },
+  {
+    "brand_name": "",
+    "product_price": 3.48,
+    "product_name": "stinger premix",
+    "product_type": "Spirits",
+    "product_id": "581792"
+  },
+  {
+    "brand_name": "",
+    "product_price": 2.5,
+    "product_name": "extra fromage grain",
+    "product_type": "Others",
+    "product_id": "695387"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "from grain a cote",
+    "product_type": "Others",
+    "product_id": "768070"
+  },
+  {
+    "brand_name": "",
+    "product_price": 15.0,
+    "product_name": "omelette du jour",
+    "product_type": "Food",
+    "product_id": "707574"
+  },
+  {
+    "brand_name": "",
+    "product_price": 5.0,
+    "product_name": "roties cafe",
+    "product_type": "Others",
+    "product_id": "689424"
+  },
+  {
+    "brand_name": "",
+    "product_price": 2.25,
+    "product_name": "extra roties",
+    "product_type": "Others",
+    "product_id": "707573"
+  },
+  {
+    "brand_name": "",
+    "product_price": 9.65,
+    "product_name": "burritos dejeuner",
+    "product_type": "Food",
+    "product_id": "622911"
+  },
+  {
+    "brand_name": "",
+    "product_price": 1.5,
+    "product_name": "extra viande",
+    "product_type": "Others",
+    "product_id": "622912"
+  },
+  {
+    "brand_name": "",
+    "product_price": 1.5,
+    "product_name": "extra saucisse",
+    "product_type": "Others",
+    "product_id": "707575"
+  },
+  {
+    "brand_name": "",
+    "product_price": 29.95,
+    "product_name": "famil burg hotdog",
+    "product_type": "Food",
+    "product_id": "623963"
+  },
+  {
+    "brand_name": "",
+    "product_price": 4.0,
+    "product_name": "raisin fromage",
+    "product_type": "Food",
+    "product_id": "694662"
+  },
+  {
+    "brand_name": "",
+    "product_price": 2.19,
+    "product_name": "cafe  ou the",
+    "product_type": "Non Alcoholic Beverages",
+    "product_id": "704690"
+  },
+  {
+    "brand_name": "",
+    "product_price": 14.0,
+    "product_name": "bene 1o s fume",
+    "product_type": "Food",
+    "product_id": "707810"
+  },
+  {
+    "brand_name": "",
+    "product_price": 7.0,
+    "product_name": "burger enfant",
+    "product_type": "Food",
+    "product_id": "769029"
+  },
+  {
+    "brand_name": "",
+    "product_price": 3.91,
+    "product_name": "chocolat bol",
+    "product_type": "Non Alcoholic Beverages",
+    "product_id": "769326"
+  },
+  {
+    "brand_name": "",
+    "product_price": 2.61,
+    "product_name": "the glace",
+    "product_type": "Non Alcoholic Beverages",
+    "product_id": "769372"
+  },
+  {
+    "brand_name": "",
+    "product_price": 4.78,
+    "product_name": "expresso",
+    "product_type": "Food",
+    "product_id": "646791"
+  },
+  {
+    "brand_name": "",
+    "product_price": 6.96,
+    "product_name": "amaretto sour",
+    "product_type": "Spirits",
+    "product_id": "586715"
+  },
+  {
+    "brand_name": "",
+    "product_price": 5.65,
+    "product_name": "tequila",
+    "product_type": "Spirits",
+    "product_id": "638994"
+  },
+  {
+    "brand_name": "",
+    "product_price": 6.95,
+    "product_name": "el diablo",
+    "product_type": "Spirits",
+    "product_id": "769684"
+  },
+  {
+    "brand_name": "",
+    "product_price": 12.0,
+    "product_name": "gateau carotte",
+    "product_type": "Food",
+    "product_id": "769729"
+  },
+  {
+    "brand_name": "",
+    "product_price": 22.0,
+    "product_name": "morue repas",
+    "product_type": "Food",
+    "product_id": "704691"
+  },
+  {
+    "brand_name": "",
+    "product_price": 11.0,
+    "product_name": "saumon poele entree",
+    "product_type": "Food",
+    "product_id": "705225"
+  },
+  {
+    "brand_name": "",
+    "product_price": 8.0,
+    "product_name": "linguine prima entre",
+    "product_type": "Food",
+    "product_id": "705227"
+  },
+  {
+    "brand_name": "",
+    "product_price": 22.0,
+    "product_name": "ravioli boeuf entre",
+    "product_type": "Food",
+    "product_id": "705300"
+  },
+  {
+    "brand_name": "",
+    "product_price": 20.0,
+    "product_name": "gravlax saumon repas",
+    "product_type": "Food",
+    "product_id": "739964"
+  },
+  {
+    "brand_name": "",
+    "product_price": 7.0,
+    "product_name": "spaghetti  enfant",
+    "product_type": "Food",
+    "product_id": "700789"
+  },
+  {
+    "brand_name": "",
+    "product_price": 7.0,
+    "product_name": "poutine enfant",
+    "product_type": "Food",
+    "product_id": "700792"
+  },
+  {
+    "brand_name": "",
+    "product_price": 18.0,
+    "product_name": "gnocchis repas",
+    "product_type": "Food",
+    "product_id": "769913"
+  },
+  {
+    "brand_name": "",
+    "product_price": 2.61,
+    "product_name": "coke diet",
+    "product_type": "Non Alcoholic Beverages",
+    "product_id": "769985"
+  },
+  {
+    "brand_name": "",
+    "product_price": 46.0,
+    "product_name": "cosme palacio",
+    "product_type": "Wine",
+    "product_id": "770050"
+  },
+  {
+    "brand_name": "",
+    "product_price": 20.0,
+    "product_name": "onglet pdt repas",
+    "product_type": "Food",
+    "product_id": "770097"
+  },
+  {
+    "brand_name": "",
+    "product_price": 16.0,
+    "product_name": "crabcakes repas",
+    "product_type": "Food",
+    "product_id": "705231"
+  },
+  {
+    "brand_name": "",
+    "product_price": 20.0,
+    "product_name": "poulet manchon repa",
+    "product_type": "Food",
+    "product_id": "705756"
+  },
+  {
+    "brand_name": "",
+    "product_price": 36.0,
+    "product_name": "fletan repas",
+    "product_type": "Food",
+    "product_id": "739965"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "divers nourriture",
+    "product_type": "Food",
+    "product_id": "642068"
+  },
+  {
+    "brand_name": "",
+    "product_price": 37.82,
+    "product_name": "clos bois chardo",
+    "product_type": "Wine",
+    "product_id": "705221"
+  },
+  {
+    "brand_name": "",
+    "product_price": 31.0,
+    "product_name": "jaleo rg",
+    "product_type": "Wine",
+    "product_id": "728660"
+  },
+  {
+    "brand_name": "",
+    "product_price": 2.0,
+    "product_name": "extra salsa",
+    "product_type": "Others",
+    "product_id": "623665"
+  },
+  {
+    "brand_name": "",
+    "product_price": 30.0,
+    "product_name": "coli pinot grigio",
+    "product_type": "Wine",
+    "product_id": "770352"
+  },
+  {
+    "brand_name": "",
+    "product_price": 1.5,
+    "product_name": "extra fr suisse",
+    "product_type": "Others",
+    "product_id": "695517"
+  },
+  {
+    "brand_name": "",
+    "product_price": 20.0,
+    "product_name": "saumon poele repas",
+    "product_type": "Food",
+    "product_id": "705753"
+  },
+  {
+    "brand_name": "",
+    "product_price": 7.0,
+    "product_name": "divers nourriture",
+    "product_type": "Food",
+    "product_id": "770466"
+  },
+  {
+    "brand_name": "",
+    "product_price": 5.0,
+    "product_name": "divers nourriture",
+    "product_type": "Food",
+    "product_id": "664438"
+  },
+  {
+    "brand_name": "",
+    "product_price": 22.0,
+    "product_name": "petoncle entree",
+    "product_type": "Food",
+    "product_id": "705223"
+  },
+  {
+    "brand_name": "",
+    "product_price": 10.0,
+    "product_name": "gnocchis entree",
+    "product_type": "Food",
+    "product_id": "705511"
+  },
+  {
+    "brand_name": "",
+    "product_price": 14.0,
+    "product_name": "magret canard entree",
+    "product_type": "Food",
+    "product_id": "705518"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "saumon poele ent fo",
+    "product_type": "Food",
+    "product_id": "770467"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "poulet man repas fo",
+    "product_type": "Food",
+    "product_id": "770468"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "gateau choco fo",
+    "product_type": "Food",
+    "product_id": "770469"
+  },
+  {
+    "brand_name": "",
+    "product_price": 2.0,
+    "product_name": "extra fromage nacho",
+    "product_type": "Others",
+    "product_id": "736735"
+  },
+  {
+    "brand_name": "",
+    "product_price": 7.0,
+    "product_name": "filets poulet enfan",
+    "product_type": "Food",
+    "product_id": "651829"
+  },
+  {
+    "brand_name": "",
+    "product_price": 7.82,
+    "product_name": "cosmopolitain",
+    "product_type": "Spirits",
+    "product_id": "585444"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "sans laitue",
+    "product_type": "Others",
+    "product_id": "770733"
+  },
+  {
+    "brand_name": "",
+    "product_price": 2.61,
+    "product_name": "ginger ale",
+    "product_type": "Non Alcoholic Beverages",
+    "product_id": "770805"
+  },
+  {
+    "brand_name": "",
+    "product_price": 6.09,
+    "product_name": "red devil",
+    "product_type": "Spirits",
+    "product_id": "770806"
+  },
+  {
+    "brand_name": "",
+    "product_price": 7.83,
+    "product_name": "dessert-tini",
+    "product_type": "Spirits",
+    "product_id": "770857"
+  },
+  {
+    "brand_name": "",
+    "product_price": 8.7,
+    "product_name": "gaz avion",
+    "product_type": "Spirits",
+    "product_id": "622361"
+  },
+  {
+    "brand_name": "",
+    "product_price": 7.82,
+    "product_name": "gateau carotte",
+    "product_type": "Spirits",
+    "product_id": "705749"
+  },
+  {
+    "brand_name": "",
+    "product_price": 8.7,
+    "product_name": "pancakes",
+    "product_type": "Spirits",
+    "product_id": "771402"
+  },
+  {
+    "brand_name": "",
+    "product_price": 8.5,
+    "product_name": "2 oeufs seul",
+    "product_type": "Food",
+    "product_id": "623127"
+  },
+  {
+    "brand_name": "",
+    "product_price": 12.0,
+    "product_name": "cassolette fo",
+    "product_type": "Food",
+    "product_id": "772052"
+  },
+  {
+    "brand_name": "",
+    "product_price": 1.0,
+    "product_name": "classique 2 oeuffo",
+    "product_type": "Food",
+    "product_id": "772053"
+  },
+  {
+    "brand_name": "",
+    "product_price": 3.95,
+    "product_name": "cafe au lait bol",
+    "product_type": "Non Alcoholic Beverages",
+    "product_id": "711594"
+  },
+  {
+    "brand_name": "",
+    "product_price": 2.0,
+    "product_name": "fruit frais",
+    "product_type": "Food",
+    "product_id": "772075"
+  },
+  {
+    "brand_name": "",
+    "product_price": 3.5,
+    "product_name": "gouttes dasani",
+    "product_type": "Non Alcoholic Beverages",
+    "product_id": "704190"
+  },
+  {
+    "brand_name": "",
+    "product_price": 5.5,
+    "product_name": "bagel fromage cafe",
+    "product_type": "Non Alcoholic Beverages",
+    "product_id": "622908"
+  },
+  {
+    "brand_name": "",
+    "product_price": 11.0,
+    "product_name": "crepe fraise",
+    "product_type": "Food",
+    "product_id": "569569"
+  },
+  {
+    "brand_name": "",
+    "product_price": 14.0,
+    "product_name": "bene 1o jambon",
+    "product_type": "Food",
+    "product_id": "707780"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.5,
+    "product_name": "divers nourriture",
+    "product_type": "Food",
+    "product_id": "621344"
+  },
+  {
+    "brand_name": "",
+    "product_price": 1.0,
+    "product_name": "1 oeuf",
+    "product_type": "Others",
+    "product_id": "711648"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "sans oignons",
+    "product_type": "Others",
+    "product_id": "772560"
+  },
+  {
+    "brand_name": "",
+    "product_price": 2.19,
+    "product_name": "chocolat chaud",
+    "product_type": "Non Alcoholic Beverages",
+    "product_id": "705519"
+  },
+  {
+    "brand_name": "",
+    "product_price": 2.41,
+    "product_name": "allonge",
+    "product_type": "Non Alcoholic Beverages",
+    "product_id": "738491"
+  },
+  {
+    "brand_name": "",
+    "product_price": 2.85,
+    "product_name": "cappucino",
+    "product_type": "Non Alcoholic Beverages",
+    "product_id": "623225"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "===>avec lait",
+    "product_type": "Others",
+    "product_id": "619845"
+  },
+  {
+    "brand_name": "",
+    "product_price": 62.0,
+    "product_name": "septima",
+    "product_type": "Wine",
+    "product_id": "772872"
+  },
+  {
+    "brand_name": "",
+    "product_price": 9.0,
+    "product_name": "picolo henkell",
+    "product_type": "Wine",
+    "product_id": "773221"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "crab cake fo",
+    "product_type": "Food",
+    "product_id": "773247"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "soupe du jour fo",
+    "product_type": "Food",
+    "product_id": "773248"
+  },
+  {
+    "brand_name": "",
+    "product_price": 23.0,
+    "product_name": "poulet manchon fo",
+    "product_type": "Food",
+    "product_id": "773249"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "escargots th",
+    "product_type": "Food",
+    "product_id": "773250"
+  },
+  {
+    "brand_name": "",
+    "product_price": 27.0,
+    "product_name": "saumon th",
+    "product_type": "Food",
+    "product_id": "773251"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "tataki boeuf fo",
+    "product_type": "Food",
+    "product_id": "773252"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "gravlax entree fo",
+    "product_type": "Food",
+    "product_id": "773253"
+  },
+  {
+    "brand_name": "",
+    "product_price": 21.0,
+    "product_name": "gnocchis repas fo",
+    "product_type": "Food",
+    "product_id": "773254"
+  },
+  {
+    "brand_name": "",
+    "product_price": 7.0,
+    "product_name": "v jaleo rg",
+    "product_type": "Wine",
+    "product_id": "725560"
+  },
+  {
+    "brand_name": "",
+    "product_price": 32.0,
+    "product_name": "contre filet fo",
+    "product_type": "Food",
+    "product_id": "773448"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "dessert inclus fo",
+    "product_type": "Others",
+    "product_id": "773449"
+  },
+  {
+    "brand_name": "",
+    "product_price": 50.0,
+    "product_name": "ch de bord crd",
+    "product_type": "Wine",
+    "product_id": "773496"
+  },
+  {
+    "brand_name": "",
+    "product_price": 36.3,
+    "product_name": "el coto, crianza",
+    "product_type": "Wine",
+    "product_id": "773521"
+  },
+  {
+    "brand_name": "",
+    "product_price": 13.0,
+    "product_name": "pain pom/can",
+    "product_type": "Food",
+    "product_id": "707776"
+  },
+  {
+    "brand_name": "",
+    "product_price": 14.0,
+    "product_name": "bagel s fume",
+    "product_type": "Food",
+    "product_id": "707841"
+  },
+  {
+    "brand_name": "",
+    "product_price": 6.25,
+    "product_name": "divers nourriture",
+    "product_type": "Food",
+    "product_id": "622365"
+  },
+  {
+    "brand_name": "",
+    "product_price": 5.98,
+    "product_name": "lait soya",
+    "product_type": "Non Alcoholic Beverages",
+    "product_id": "689423"
+  },
+  {
+    "brand_name": "",
+    "product_price": 7.83,
+    "product_name": "cafe irlandais",
+    "product_type": "Food",
+    "product_id": "709473"
+  },
+  {
+    "brand_name": "",
+    "product_price": 13.04,
+    "product_name": "cafe brandy",
+    "product_type": "Spirits",
+    "product_id": "727221"
+  },
+  {
+    "brand_name": "",
+    "product_price": 3.04,
+    "product_name": "verre de lait",
+    "product_type": "Non Alcoholic Beverages",
+    "product_id": "623511"
+  },
+  {
+    "brand_name": "",
+    "product_price": 28.0,
+    "product_name": "s sablette",
+    "product_type": "Wine",
+    "product_id": "739775"
+  },
+  {
+    "brand_name": "",
+    "product_price": 6.09,
+    "product_name": "zombie",
+    "product_type": "Spirits",
+    "product_id": "776281"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "tourne leger",
+    "product_type": "Food",
+    "product_id": "569571"
+  },
+  {
+    "brand_name": "",
+    "product_price": 5.0,
+    "product_name": "tarte pacane",
+    "product_type": "Food",
+    "product_id": "778544"
+  },
+  {
+    "brand_name": "",
+    "product_price": 2.5,
+    "product_name": "sesame snack",
+    "product_type": "Food",
+    "product_id": "778545"
+  },
+  {
+    "brand_name": "",
+    "product_price": 2.0,
+    "product_name": "extra piments fort",
+    "product_type": "Others",
+    "product_id": "709409"
+  },
+  {
+    "brand_name": "",
+    "product_price": 4.0,
+    "product_name": "divers nourriture",
+    "product_type": "Food",
+    "product_id": "778785"
+  },
+  {
+    "brand_name": "",
+    "product_price": 1.99,
+    "product_name": "kleenex",
+    "product_type": "Food",
+    "product_id": "778814"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "divers alcool",
+    "product_type": "Wine",
+    "product_id": "705750"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "frite mayo fo",
+    "product_type": "Food",
+    "product_id": "778848"
+  },
+  {
+    "brand_name": "",
+    "product_price": 6.95,
+    "product_name": "zombie",
+    "product_type": "Spirits",
+    "product_id": "741059"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "spaghetti enf fo",
+    "product_type": "Food",
+    "product_id": "779346"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "medium bien",
+    "product_type": "Others",
+    "product_id": "739432"
+  },
+  {
+    "brand_name": "",
+    "product_price": 7.83,
+    "product_name": "red lotus",
+    "product_type": "Spirits",
+    "product_id": "779659"
+  },
+  {
+    "brand_name": "",
+    "product_price": 12.0,
+    "product_name": "morue entree",
+    "product_type": "Food",
+    "product_id": "705230"
+  },
+  {
+    "brand_name": "",
+    "product_price": 19.0,
+    "product_name": "fletan entree",
+    "product_type": "Food",
+    "product_id": "705514"
+  },
+  {
+    "brand_name": "",
+    "product_price": 30.0,
+    "product_name": "monasterio",
+    "product_type": "Wine",
+    "product_id": "709145"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "classique 1 oeuf fo",
+    "product_type": "Food",
+    "product_id": "633766"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "petit chef fo",
+    "product_type": "Food",
+    "product_id": "781432"
+  },
+  {
+    "brand_name": "",
+    "product_price": 34.0,
+    "product_name": "codorniu",
+    "product_type": "Wine",
+    "product_id": "781691"
+  },
+  {
+    "brand_name": "Mill St. Cobblestone Stout",
+    "product_price": 20.88,
+    "product_name": "pot cobble stone",
+    "product_type": "Beer",
+    "product_id": "782217"
+  },
+  {
+    "brand_name": "",
+    "product_price": 3.0,
+    "product_name": "divers nourriture",
+    "product_type": "Food",
+    "product_id": "781953"
+  },
+  {
+    "brand_name": "",
+    "product_price": 22.0,
+    "product_name": "pizza complet",
+    "product_type": "Non Alcoholic Beverages",
+    "product_id": "689636"
+  },
+  {
+    "brand_name": "",
+    "product_price": 7.83,
+    "product_name": "cafe b-52",
+    "product_type": "Food",
+    "product_id": "782248"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "sans salade",
+    "product_type": "Others",
+    "product_id": "701302"
+  },
+  {
+    "brand_name": "",
+    "product_price": 6.0,
+    "product_name": "gateau fromage",
+    "product_type": "Food",
+    "product_id": "782498"
+  },
+  {
+    "brand_name": "",
+    "product_price": 11.0,
+    "product_name": "onglet pdt entree",
+    "product_type": "Food",
+    "product_id": "782779"
+  },
+  {
+    "brand_name": "",
+    "product_price": 11.0,
+    "product_name": "poulet manchon entre",
+    "product_type": "Food",
+    "product_id": "782823"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "sans fromage",
+    "product_type": "Others",
+    "product_id": "648016"
+  },
+  {
+    "brand_name": "",
+    "product_price": 27.0,
+    "product_name": "ris de veau repas",
+    "product_type": "Food",
+    "product_id": "705758"
+  },
+  {
+    "brand_name": "",
+    "product_price": 18.0,
+    "product_name": "divers nourriture",
+    "product_type": "Food",
+    "product_id": "783056"
+  },
+  {
+    "brand_name": "",
+    "product_price": 13.04,
+    "product_name": "cafe amarula",
+    "product_type": "Spirits",
+    "product_id": "710180"
+  },
+  {
+    "brand_name": "",
+    "product_price": 18.0,
+    "product_name": "chou farcies repas",
+    "product_type": "Food",
+    "product_id": "783102"
+  },
+  {
+    "brand_name": "",
+    "product_price": 6.0,
+    "product_name": "sasquatch",
+    "product_type": "Food",
+    "product_id": "784623"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.22,
+    "product_name": "verre vide",
+    "product_type": "Food",
+    "product_id": "784671"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.22,
+    "product_name": "biscuit soda",
+    "product_type": "Others",
+    "product_id": "704688"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "===>avec jus pamplem",
+    "product_type": "Others",
+    "product_id": "700847"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "pour sortir",
+    "product_type": "Others",
+    "product_id": "784785"
+  },
+  {
+    "brand_name": "",
+    "product_price": 39.0,
+    "product_name": "clos bois chardo",
+    "product_type": "Wine",
+    "product_id": "705970"
+  },
+  {
+    "brand_name": "Bud Light",
+    "product_price": 5.43,
+    "product_name": "bud light",
+    "product_type": "Beer",
+    "product_id": "620556"
+  },
+  {
+    "brand_name": "Beck's Non Alcohol",
+    "product_price": 5.0,
+    "product_name": "beck's %",
+    "product_type": "Beer",
+    "product_id": "785157"
+  },
+  {
+    "brand_name": "",
+    "product_price": 29.0,
+    "product_name": "saumon th",
+    "product_type": "Food",
+    "product_id": "784985"
+  },
+  {
+    "brand_name": "",
+    "product_price": 24.0,
+    "product_name": "burger th",
+    "product_type": "Food",
+    "product_id": "784986"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "crabcake th entree",
+    "product_type": "Others",
+    "product_id": "785005"
+  },
+  {
+    "brand_name": "",
+    "product_price": 35.0,
+    "product_name": "contrefilet th",
+    "product_type": "Food",
+    "product_id": "785006"
+  },
+  {
+    "brand_name": "",
+    "product_price": 23.0,
+    "product_name": "linguini th",
+    "product_type": "Food",
+    "product_id": "785007"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "pate de foie th",
+    "product_type": "Food",
+    "product_id": "785008"
+  },
+  {
+    "brand_name": "",
+    "product_price": 7.83,
+    "product_name": "gimlet",
+    "product_type": "Spirits",
+    "product_id": "785009"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "crabcake th entree",
+    "product_type": "Food",
+    "product_id": "785076"
+  },
+  {
+    "brand_name": "",
+    "product_price": 24.0,
+    "product_name": "burger th",
+    "product_type": "Food",
+    "product_id": "785078"
+  },
+  {
+    "brand_name": "",
+    "product_price": 35.0,
+    "product_name": "contrefilet th",
+    "product_type": "Food",
+    "product_id": "785079"
+  },
+  {
+    "brand_name": "",
+    "product_price": 6.95,
+    "product_name": "kamikaze",
+    "product_type": "Spirits",
+    "product_id": "785158"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "filets enf fo",
+    "product_type": "Food",
+    "product_id": "785159"
+  },
+  {
+    "brand_name": "",
+    "product_price": 5.22,
+    "product_name": "kamikaze",
+    "product_type": "Spirits",
+    "product_id": "701558"
+  },
+  {
+    "brand_name": "",
+    "product_price": 1.25,
+    "product_name": "sirop d'rable",
+    "product_type": "Others",
+    "product_id": "785349"
+  },
+  {
+    "brand_name": "",
+    "product_price": 4.0,
+    "product_name": "crepe fraise fo",
+    "product_type": "Food",
+    "product_id": "785350"
+  },
+  {
+    "brand_name": "",
+    "product_price": 5.65,
+    "product_name": "amaretto",
+    "product_type": "Food",
+    "product_id": "785433"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "bien cuit",
+    "product_type": "Others",
+    "product_id": "785494"
+  },
+  {
+    "brand_name": "",
+    "product_price": 41.0,
+    "product_name": "petoncle repas",
+    "product_type": "Food",
+    "product_id": "704692"
+  },
+  {
+    "brand_name": "",
+    "product_price": 10.83,
+    "product_name": "bloody stoneham",
+    "product_type": "Spirits",
+    "product_id": "785520"
+  },
+  {
+    "brand_name": "",
+    "product_price": 6.95,
+    "product_name": "anis frisco",
+    "product_type": "Spirits",
+    "product_id": "785521"
+  },
+  {
+    "brand_name": "",
+    "product_price": 7.39,
+    "product_name": "cafe africain",
+    "product_type": "Food",
+    "product_id": "736925"
+  },
+  {
+    "brand_name": "",
+    "product_price": 3.0,
+    "product_name": "extra sce spag",
+    "product_type": "Food",
+    "product_id": "785558"
+  },
+  {
+    "brand_name": "",
+    "product_price": 12.18,
+    "product_name": "glenfarclas",
+    "product_type": "Spirits",
+    "product_id": "785655"
+  },
+  {
+    "brand_name": "",
+    "product_price": 15.36,
+    "product_name": "v porto 10 ans",
+    "product_type": "Wine",
+    "product_id": "785656"
+  },
+  {
+    "brand_name": "",
+    "product_price": 6.95,
+    "product_name": "brise ensoleille",
+    "product_type": "Spirits",
+    "product_id": "785838"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.5,
+    "product_name": "eau chaude",
+    "product_type": "Non Alcoholic Beverages",
+    "product_id": "786066"
+  },
+  {
+    "brand_name": "Budweiser",
+    "product_price": 10.86,
+    "product_name": "bud",
+    "product_type": "Beer",
+    "product_id": "624789"
+  },
+  {
+    "brand_name": "",
+    "product_price": 23.0,
+    "product_name": "ceveche crev repas",
+    "product_type": "Food",
+    "product_id": "786251"
+  },
+  {
+    "brand_name": "",
+    "product_price": 2.0,
+    "product_name": "extra sauce poutine",
+    "product_type": "Others",
+    "product_id": "786511"
+  },
+  {
+    "brand_name": "",
+    "product_price": 15.64,
+    "product_name": "orgasme",
+    "product_type": "Spirits",
+    "product_id": "786559"
+  },
+  {
+    "brand_name": "",
+    "product_price": 10.44,
+    "product_name": "goldshlager",
+    "product_type": "Spirits",
+    "product_id": "621010"
+  },
+  {
+    "brand_name": "",
+    "product_price": 7.82,
+    "product_name": "chocolat chips",
+    "product_type": "Spirits",
+    "product_id": "786590"
+  },
+  {
+    "brand_name": "",
+    "product_price": 11.73,
+    "product_name": "ours polaire",
+    "product_type": "Spirits",
+    "product_id": "582169"
+  },
+  {
+    "brand_name": "",
+    "product_price": 99.0,
+    "product_name": "chanoine",
+    "product_type": "Wine",
+    "product_id": "787011"
+  },
+  {
+    "brand_name": "",
+    "product_price": 52.0,
+    "product_name": "carpineto",
+    "product_type": "Wine",
+    "product_id": "736361"
+  },
+  {
+    "brand_name": "",
+    "product_price": 55.0,
+    "product_name": "amorino",
+    "product_type": "Wine",
+    "product_id": "715878"
+  },
+  {
+    "brand_name": "",
+    "product_price": 34.0,
+    "product_name": "maria davalos",
+    "product_type": "Wine",
+    "product_id": "712797"
+  },
+  {
+    "brand_name": "",
+    "product_price": 5.65,
+    "product_name": "triple sec",
+    "product_type": "Spirits",
+    "product_id": "706130"
+  },
+  {
+    "brand_name": "",
+    "product_price": 5.65,
+    "product_name": "brandy",
+    "product_type": "Spirits",
+    "product_id": "727222"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "pain dore",
+    "product_type": "Food",
+    "product_id": "642067"
+  },
+  {
+    "brand_name": "",
+    "product_price": 8.7,
+    "product_name": "virgin mary",
+    "product_type": "Non Alcoholic Beverages",
+    "product_id": "787969"
+  },
+  {
+    "brand_name": "",
+    "product_price": 1.0,
+    "product_name": "divers alcool",
+    "product_type": "Wine",
+    "product_id": "788058"
+  },
+  {
+    "brand_name": "Labatt 50 Blue",
+    "product_price": 5.43,
+    "product_name": "bleue",
+    "product_type": "Beer",
+    "product_id": "788385"
+  },
+  {
+    "brand_name": "",
+    "product_price": 34.0,
+    "product_name": "deinhard green l",
+    "product_type": "Wine",
+    "product_id": "728594"
+  },
+  {
+    "brand_name": "",
+    "product_price": 10.95,
+    "product_name": "divers nourriture",
+    "product_type": "Food",
+    "product_id": "788569"
+  },
+  {
+    "brand_name": "",
+    "product_price": 6.95,
+    "product_name": "red devil",
+    "product_type": "Spirits",
+    "product_id": "788900"
+  },
+  {
+    "brand_name": "",
+    "product_price": 1.5,
+    "product_name": "divers nourriture",
+    "product_type": "Food",
+    "product_id": "740402"
+  },
+  {
+    "brand_name": "",
+    "product_price": 2.83,
+    "product_name": "expresso double",
+    "product_type": "Food",
+    "product_id": "788995"
+  },
+  {
+    "brand_name": "Labatt 50 Blue",
+    "product_price": 4.34,
+    "product_name": "bleue",
+    "product_type": "Beer",
+    "product_id": "789714"
+  },
+  {
+    "brand_name": "",
+    "product_price": 6.14,
+    "product_name": "long island",
+    "product_type": "Spirits",
+    "product_id": "789072"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "nacho arriba",
+    "product_type": "Others",
+    "product_id": "701552"
+  },
+  {
+    "brand_name": "",
+    "product_price": 1.25,
+    "product_name": "feves au lard  extr",
+    "product_type": "Others",
+    "product_id": "689425"
+  },
+  {
+    "brand_name": "",
+    "product_price": 32.5,
+    "product_name": "menu famille sandw",
+    "product_type": "Food",
+    "product_id": "694660"
+  },
+  {
+    "brand_name": "",
+    "product_price": 19.0,
+    "product_name": "carre agneau entree",
+    "product_type": "Food",
+    "product_id": "705512"
+  },
+  {
+    "brand_name": "",
+    "product_price": 15.0,
+    "product_name": "ris de veau entree",
+    "product_type": "Food",
+    "product_id": "705754"
+  },
+  {
+    "brand_name": "",
+    "product_price": 13.0,
+    "product_name": "ceviche crev entree",
+    "product_type": "Food",
+    "product_id": "705232"
+  },
+  {
+    "brand_name": "",
+    "product_price": 9.0,
+    "product_name": "divers nourriture",
+    "product_type": "Food",
+    "product_id": "789928"
+  },
+  {
+    "brand_name": "",
+    "product_price": 16.0,
+    "product_name": "divers nourriture",
+    "product_type": "Food",
+    "product_id": "789957"
+  },
+  {
+    "brand_name": "",
+    "product_price": 4.78,
+    "product_name": "martini rouge",
+    "product_type": "Food",
+    "product_id": "789979"
+  },
+  {
+    "brand_name": "",
+    "product_price": 6.96,
+    "product_name": "whiskey sour",
+    "product_type": "Spirits",
+    "product_id": "789988"
+  },
+  {
+    "brand_name": "",
+    "product_price": 14.34,
+    "product_name": "prosecco",
+    "product_type": "Wine",
+    "product_id": "790079"
+  },
+  {
+    "brand_name": "",
+    "product_price": 5.0,
+    "product_name": "extra crevettes (3)",
+    "product_type": "Others",
+    "product_id": "790199"
+  },
+  {
+    "brand_name": "",
+    "product_price": 2.39,
+    "product_name": "the tisane",
+    "product_type": "Food",
+    "product_id": "790618"
+  },
+  {
+    "brand_name": "",
+    "product_price": 11.73,
+    "product_name": "crotte shot",
+    "product_type": "Spirits",
+    "product_id": "739431"
+  },
+  {
+    "brand_name": "",
+    "product_price": 9.0,
+    "product_name": "crabcake entree",
+    "product_type": "Food",
+    "product_id": "705229"
+  },
+  {
+    "brand_name": "",
+    "product_price": 46.0,
+    "product_name": "pinot n mission hill",
+    "product_type": "Wine",
+    "product_id": "712748"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "nachos 4foyers fo",
+    "product_type": "Food",
+    "product_id": "690310"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "coque",
+    "product_type": "Others",
+    "product_id": "791229"
+  },
+  {
+    "brand_name": "",
+    "product_price": 12.0,
+    "product_name": "classique 2 oeufs",
+    "product_type": "Food",
+    "product_id": "791230"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "yeti fo",
+    "product_type": "Food",
+    "product_id": "791235"
+  },
+  {
+    "brand_name": "",
+    "product_price": 11.0,
+    "product_name": "classique 1 oeuf",
+    "product_type": "Food",
+    "product_id": "791236"
+  },
+  {
+    "brand_name": "",
+    "product_price": 227.99,
+    "product_name": "divers nourriture",
+    "product_type": "Food",
+    "product_id": "791276"
+  },
+  {
+    "brand_name": "",
+    "product_price": 2.39,
+    "product_name": "cafe 12oz employe",
+    "product_type": "Spirits",
+    "product_id": "791433"
+  },
+  {
+    "brand_name": "",
+    "product_price": 4.78,
+    "product_name": "liqueur 16oz employ",
+    "product_type": "Spirits",
+    "product_id": "791452"
+  },
+  {
+    "brand_name": "",
+    "product_price": 4.78,
+    "product_name": "liqueur 24 oz emplo",
+    "product_type": "Spirits",
+    "product_id": "791453"
+  },
+  {
+    "brand_name": "",
+    "product_price": 4.78,
+    "product_name": "caf 16oz employ",
+    "product_type": "Spirits",
+    "product_id": "791456"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.87,
+    "product_name": "liqueur 24 oz emplo",
+    "product_type": "Spirits",
+    "product_id": "791457"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.43,
+    "product_name": "liqueur 16oz employ",
+    "product_type": "Spirits",
+    "product_id": "791458"
+  },
+  {
+    "brand_name": "",
+    "product_price": 37.0,
+    "product_name": "el coto, crianza",
+    "product_type": "Wine",
+    "product_id": "620248"
+  },
+  {
+    "brand_name": "",
+    "product_price": 10.0,
+    "product_name": "chou farcies entree",
+    "product_type": "Food",
+    "product_id": "705513"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.43,
+    "product_name": "brev empl+grand",
+    "product_type": "Non Alcoholic Beverages",
+    "product_id": "791697"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "avec frites",
+    "product_type": "Others",
+    "product_id": "791804"
+  },
+  {
+    "brand_name": "",
+    "product_price": 6.96,
+    "product_name": "sour puss",
+    "product_type": "Spirits",
+    "product_id": "712134"
+  },
+  {
+    "brand_name": "",
+    "product_price": 15.64,
+    "product_name": "troux",
+    "product_type": "Spirits",
+    "product_id": "737649"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.86,
+    "product_name": "brev empl+grand",
+    "product_type": "Non Alcoholic Beverages",
+    "product_id": "792111"
+  },
+  {
+    "brand_name": "",
+    "product_price": 1.0,
+    "product_name": "fromage cheddar",
+    "product_type": "Others",
+    "product_id": "792134"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "muffin anglais",
+    "product_type": "Others",
+    "product_id": "792135"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "sans pain",
+    "product_type": "Others",
+    "product_id": "792190"
+  },
+  {
+    "brand_name": "",
+    "product_price": 6.14,
+    "product_name": "alabama slamer",
+    "product_type": "Spirits",
+    "product_id": "792714"
+  },
+  {
+    "brand_name": "",
+    "product_price": 4.78,
+    "product_name": "pernod",
+    "product_type": "Food",
+    "product_id": "793181"
+  },
+  {
+    "brand_name": "",
+    "product_price": 1200.0,
+    "product_name": "divers alcool",
+    "product_type": "Wine",
+    "product_id": "793794"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "===>coke diete",
+    "product_type": "Others",
+    "product_id": "701477"
+  },
+  {
+    "brand_name": "",
+    "product_price": 11.3,
+    "product_name": "irish car bomb",
+    "product_type": "Spirits",
+    "product_id": "710228"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "creton",
+    "product_type": "Food",
+    "product_id": "795952"
+  },
+  {
+    "brand_name": "",
+    "product_price": 7.82,
+    "product_name": "liquid c",
+    "product_type": "Spirits",
+    "product_id": "713382"
+  },
+  {
+    "brand_name": "",
+    "product_price": 1.0,
+    "product_name": "fromage suisse",
+    "product_type": "Others",
+    "product_id": "796849"
+  },
+  {
+    "brand_name": "",
+    "product_price": 1.0,
+    "product_name": "fromage creme",
+    "product_type": "Others",
+    "product_id": "796863"
+  },
+  {
+    "brand_name": "",
+    "product_price": 57.0,
+    "product_name": "chateau de maligny",
+    "product_type": "Wine",
+    "product_id": "728651"
+  },
+  {
+    "brand_name": "",
+    "product_price": 20.0,
+    "product_name": "divers nourriture",
+    "product_type": "Food",
+    "product_id": "797130"
+  },
+  {
+    "brand_name": "",
+    "product_price": 40.0,
+    "product_name": "divers nourriture",
+    "product_type": "Food",
+    "product_id": "797238"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "porc a part",
+    "product_type": "Food",
+    "product_id": "798287"
+  },
+  {
+    "brand_name": "",
+    "product_price": 2.0,
+    "product_name": "pommes de terre",
+    "product_type": "Others",
+    "product_id": "797844"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "le sante fo",
+    "product_type": "Food",
+    "product_id": "798295"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "classique 2 oeuffo",
+    "product_type": "Food",
+    "product_id": "798296"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "pain pom/can fo",
+    "product_type": "Food",
+    "product_id": "798297"
+  },
+  {
+    "brand_name": "",
+    "product_price": 3.91,
+    "product_name": "cerveau",
+    "product_type": "Spirits",
+    "product_id": "586631"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "sans sauce",
+    "product_type": "Others",
+    "product_id": "798493"
+  },
+  {
+    "brand_name": "",
+    "product_price": 47.0,
+    "product_name": "divers alcool",
+    "product_type": "Wine",
+    "product_id": "798855"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "chateau des laurets",
+    "product_type": "Others",
+    "product_id": "798856"
+  },
+  {
+    "brand_name": "",
+    "product_price": 5.0,
+    "product_name": "le sante fo",
+    "product_type": "Food",
+    "product_id": "798865"
+  },
+  {
+    "brand_name": "",
+    "product_price": 3.0,
+    "product_name": "pain pom/can fo",
+    "product_type": "Food",
+    "product_id": "798866"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "noix arachide",
+    "product_type": "Food",
+    "product_id": "799618"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "allergie sesame",
+    "product_type": "Others",
+    "product_id": "799619"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "poutine ital fo",
+    "product_type": "Others",
+    "product_id": "799985"
+  },
+  {
+    "brand_name": "Budweiser",
+    "product_price": 5.0,
+    "product_name": "prohibition bud",
+    "product_type": "Beer",
+    "product_id": "802009"
+  },
+  {
+    "brand_name": "",
+    "product_price": 15.0,
+    "product_name": "divers nourriture",
+    "product_type": "Food",
+    "product_id": "800227"
+  },
+  {
+    "brand_name": "",
+    "product_price": 12.0,
+    "product_name": "divers nourriture",
+    "product_type": "Food",
+    "product_id": "800248"
+  },
+  {
+    "brand_name": "",
+    "product_price": 32.0,
+    "product_name": "jp chenet",
+    "product_type": "Wine",
+    "product_id": "638957"
+  },
+  {
+    "brand_name": "",
+    "product_price": 7.82,
+    "product_name": "limonade-tini",
+    "product_type": "Spirits",
+    "product_id": "802078"
+  },
+  {
+    "brand_name": "",
+    "product_price": 10.0,
+    "product_name": "divers nourriture",
+    "product_type": "Food",
+    "product_id": "802252"
+  },
+  {
+    "brand_name": "",
+    "product_price": 160.9,
+    "product_name": "btl boisson",
+    "product_type": "Spirits",
+    "product_id": "802267"
+  },
+  {
+    "brand_name": "Budweiser",
+    "product_price": 5.0,
+    "product_name": "prohibition bud",
+    "product_type": "Beer",
+    "product_id": "802552"
+  },
+  {
+    "brand_name": "",
+    "product_price": 2.0,
+    "product_name": "extra tomates",
+    "product_type": "Others",
+    "product_id": "802787"
+  },
+  {
+    "brand_name": "",
+    "product_price": 2.0,
+    "product_name": "divers alcool",
+    "product_type": "Wine",
+    "product_id": "803222"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "bleu",
+    "product_type": "Others",
+    "product_id": "803305"
+  },
+  {
+    "brand_name": "",
+    "product_price": 1.75,
+    "product_name": "v 8 energie",
+    "product_type": "Wine",
+    "product_id": "803947"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "cout approximatif*",
+    "product_type": "Others",
+    "product_id": "737709"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "cout approximatif_d",
+    "product_type": "Others",
+    "product_id": "737710"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "numero contrat*",
+    "product_type": "Others",
+    "product_id": "737711"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "numero contrat_d",
+    "product_type": "Others",
+    "product_id": "737712"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "nom du client*",
+    "product_type": "Others",
+    "product_id": "737713"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "nom du client_d",
+    "product_type": "Others",
+    "product_id": "737714"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "nombre de persone*",
+    "product_type": "Others",
+    "product_id": "737715"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "nombre de persone_d",
+    "product_type": "Others",
+    "product_id": "737716"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "date evenement*",
+    "product_type": "Others",
+    "product_id": "737717"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "date evenement_d",
+    "product_type": "Others",
+    "product_id": "737718"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "soupe a oignon fo",
+    "product_type": "Food",
+    "product_id": "739769"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "pizza fine fo",
+    "product_type": "Food",
+    "product_id": "805819"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "burger 4 foyer fo",
+    "product_type": "Others",
+    "product_id": "805820"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "spag boulette fo",
+    "product_type": "Others",
+    "product_id": "805821"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "gateau from fo",
+    "product_type": "Others",
+    "product_id": "805822"
+  },
+  {
+    "brand_name": "",
+    "product_price": 22.0,
+    "product_name": "divers nourriture",
+    "product_type": "Food",
+    "product_id": "806120"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "pas de frites salade",
+    "product_type": "Others",
+    "product_id": "806219"
+  },
+  {
+    "brand_name": "",
+    "product_price": 41.0,
+    "product_name": "divers nourriture",
+    "product_type": "Food",
+    "product_id": "806230"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "ravioli boeuf fo",
+    "product_type": "Food",
+    "product_id": "705601"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "salade jardi fo",
+    "product_type": "Food",
+    "product_id": "807438"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "magret repas fo",
+    "product_type": "Food",
+    "product_id": "807439"
+  },
+  {
+    "brand_name": "",
+    "product_price": 17.61,
+    "product_name": "bailey's",
+    "product_type": "Spirits",
+    "product_id": "710591"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "porc a cote",
+    "product_type": "Food",
+    "product_id": "807696"
+  },
+  {
+    "brand_name": "",
+    "product_price": 331.07,
+    "product_name": "divers nourriture",
+    "product_type": "Food",
+    "product_id": "808722"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "carre agneau rep fo",
+    "product_type": "Food",
+    "product_id": "808981"
+  },
+  {
+    "brand_name": "",
+    "product_price": 50.0,
+    "product_name": "divers nourriture",
+    "product_type": "Food",
+    "product_id": "809224"
+  },
+  {
+    "brand_name": "",
+    "product_price": 5.65,
+    "product_name": "soho",
+    "product_type": "Spirits",
+    "product_id": "809368"
+  },
+  {
+    "brand_name": "",
+    "product_price": 1.5,
+    "product_name": "extra tomate",
+    "product_type": "Food",
+    "product_id": "809509"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "attendre serveur",
+    "product_type": "Others",
+    "product_id": "669973"
+  },
+  {
+    "brand_name": "",
+    "product_price": 6.95,
+    "product_name": "bebe poutine",
+    "product_type": "Food",
+    "product_id": "809550"
+  },
+  {
+    "brand_name": "",
+    "product_price": 9.85,
+    "product_name": "poutine reg.",
+    "product_type": "Food",
+    "product_id": "809561"
+  },
+  {
+    "brand_name": "Bud Light",
+    "product_price": 3.7,
+    "product_name": "verre blight",
+    "product_type": "Beer",
+    "product_id": "619544"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "saumon poele repa fo",
+    "product_type": "Food",
+    "product_id": "809778"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "trio from 2p",
+    "product_type": "Food",
+    "product_id": "810049"
+  },
+  {
+    "brand_name": "",
+    "product_price": 60.0,
+    "product_name": "trio boeuf 2p",
+    "product_type": "Food",
+    "product_id": "810050"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "trio choco 2p",
+    "product_type": "Food",
+    "product_id": "810051"
+  },
+  {
+    "brand_name": "",
+    "product_price": 5.0,
+    "product_name": "omelette jour fo",
+    "product_type": "Food",
+    "product_id": "810545"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "burger ptit coch fo",
+    "product_type": "Food",
+    "product_id": "810920"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "saumon  fo",
+    "product_type": "Food",
+    "product_id": "810921"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "contre filet fo",
+    "product_type": "Food",
+    "product_id": "713149"
+  },
+  {
+    "brand_name": "",
+    "product_price": 3.25,
+    "product_name": "gateau maxi",
+    "product_type": "Food",
+    "product_id": "811523"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "fish n chips fo",
+    "product_type": "Others",
+    "product_id": "811847"
+  },
+  {
+    "brand_name": "",
+    "product_price": 3.5,
+    "product_name": "brownies",
+    "product_type": "Food",
+    "product_id": "812496"
+  },
+  {
+    "brand_name": "",
+    "product_price": 7.83,
+    "product_name": "vodka martini",
+    "product_type": "Spirits",
+    "product_id": "812564"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "chou farcis ent fo",
+    "product_type": "Food",
+    "product_id": "813043"
+  },
+  {
+    "brand_name": "Archibald Chipie",
+    "product_price": 7.83,
+    "product_name": "chipie",
+    "product_type": "Beer",
+    "product_id": "813405"
+  },
+  {
+    "brand_name": "Archibald Matante",
+    "product_price": 7.83,
+    "product_name": "matante",
+    "product_type": "Beer",
+    "product_id": "813406"
+  },
+  {
+    "brand_name": "",
+    "product_price": 34.0,
+    "product_name": "ch roseline",
+    "product_type": "Wine",
+    "product_id": "813583"
+  },
+  {
+    "brand_name": "",
+    "product_price": 5.0,
+    "product_name": "bene 2o jam fo",
+    "product_type": "Food",
+    "product_id": "813824"
+  },
+  {
+    "brand_name": "Bud Light",
+    "product_price": 7.18,
+    "product_name": "pinte bud light",
+    "product_type": "Beer",
+    "product_id": "813997"
+  },
+  {
+    "brand_name": "Bud Light",
+    "product_price": 17.39,
+    "product_name": "pot bud light",
+    "product_type": "Beer",
+    "product_id": "814021"
+  },
+  {
+    "brand_name": "",
+    "product_price": 17.4,
+    "product_name": "vokda belvedere",
+    "product_type": "Spirits",
+    "product_id": "814288"
+  },
+  {
+    "brand_name": "",
+    "product_price": 21.74,
+    "product_name": "superbowl",
+    "product_type": "Food",
+    "product_id": "814762"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "1/2 trad fo",
+    "product_type": "Others",
+    "product_id": "814763"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "pizza trad fo",
+    "product_type": "Others",
+    "product_id": "814764"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "1/2 pepe fo",
+    "product_type": "Others",
+    "product_id": "814838"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "pizza pepe fo",
+    "product_type": "Others",
+    "product_id": "814839"
+  },
+  {
+    "brand_name": "",
+    "product_price": 43.48,
+    "product_name": "biere superbowl",
+    "product_type": "Beer",
+    "product_id": "814979"
+  },
+  {
+    "brand_name": "",
+    "product_price": 7.82,
+    "product_name": "super pittbowl",
+    "product_type": "Spirits",
+    "product_id": "814980"
+  },
+  {
+    "brand_name": "",
+    "product_price": 13.0,
+    "product_name": "pizza fine",
+    "product_type": "Food",
+    "product_id": "815350"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "burger vegetarien fo",
+    "product_type": "Others",
+    "product_id": "815460"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "calmars frit fo",
+    "product_type": "Food",
+    "product_id": "817017"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "burger crabe fo",
+    "product_type": "Food",
+    "product_id": "817018"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "club sand fo",
+    "product_type": "Food",
+    "product_id": "817159"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "fondant de brie fo",
+    "product_type": "Food",
+    "product_id": "817546"
+  },
+  {
+    "brand_name": "",
+    "product_price": 6.0,
+    "product_name": "gateau from napo",
+    "product_type": "Food",
+    "product_id": "817547"
+  },
+  {
+    "brand_name": "",
+    "product_price": 26.0,
+    "product_name": "1/2 masi campofiorin",
+    "product_type": "Wine",
+    "product_id": "817667"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "morue repas fo",
+    "product_type": "Food",
+    "product_id": "817700"
+  },
+  {
+    "brand_name": "",
+    "product_price": 6.96,
+    "product_name": "bloody gin",
+    "product_type": "Spirits",
+    "product_id": "701881"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "coquille fo",
+    "product_type": "Food",
+    "product_id": "818181"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "salade de legu fo",
+    "product_type": "Food",
+    "product_id": "818182"
+  },
+  {
+    "brand_name": "",
+    "product_price": 45.0,
+    "product_name": "divers nourriture",
+    "product_type": "Food",
+    "product_id": "818225"
+  },
+  {
+    "brand_name": "",
+    "product_price": 4.0,
+    "product_name": "bagel saum fo",
+    "product_type": "Food",
+    "product_id": "818381"
+  },
+  {
+    "brand_name": "",
+    "product_price": 5.0,
+    "product_name": "bene 2o s fume fo",
+    "product_type": "Food",
+    "product_id": "818382"
+  },
+  {
+    "brand_name": "",
+    "product_price": 2.0,
+    "product_name": "crepe",
+    "product_type": "Others",
+    "product_id": "819275"
+  },
+  {
+    "brand_name": "",
+    "product_price": 2.85,
+    "product_name": "espresso double",
+    "product_type": "Non Alcoholic Beverages",
+    "product_id": "823372"
+  },
+  {
+    "brand_name": "",
+    "product_price": 6.95,
+    "product_name": "alabama slamer",
+    "product_type": "Spirits",
+    "product_id": "823908"
+  },
+  {
+    "brand_name": "",
+    "product_price": 62.0,
+    "product_name": "trio boeuf 2p",
+    "product_type": "Others",
+    "product_id": "824729"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "ceviche entree fo",
+    "product_type": "Food",
+    "product_id": "705600"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "onglet pdt repas fo",
+    "product_type": "Others",
+    "product_id": "824841"
+  },
+  {
+    "brand_name": "",
+    "product_price": 69.0,
+    "product_name": "table d'hte pour 2",
+    "product_type": "Food",
+    "product_id": "824849"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.43,
+    "product_name": "extra liqueur trio",
+    "product_type": "Non Alcoholic Beverages",
+    "product_id": "834882"
+  },
+  {
+    "brand_name": "",
+    "product_price": 2.85,
+    "product_name": "coke zero btle",
+    "product_type": "Non Alcoholic Beverages",
+    "product_id": "835404"
+  },
+  {
+    "brand_name": "",
+    "product_price": 6.0,
+    "product_name": "gateau hercule choc",
+    "product_type": "Food",
+    "product_id": "835508"
+  },
+  {
+    "brand_name": "",
+    "product_price": 4.82,
+    "product_name": "espresso",
+    "product_type": "Non Alcoholic Beverages",
+    "product_id": "835965"
+  },
+  {
+    "brand_name": "",
+    "product_price": 337.86,
+    "product_name": "divers nourriture",
+    "product_type": "Food",
+    "product_id": "836021"
+  },
+  {
+    "brand_name": "",
+    "product_price": 49.16,
+    "product_name": "masi campofiorin",
+    "product_type": "Wine",
+    "product_id": "837366"
+  },
+  {
+    "brand_name": "",
+    "product_price": 9.0,
+    "product_name": "divers alcool",
+    "product_type": "Spirits",
+    "product_id": "856402"
+  },
+  {
+    "brand_name": "",
+    "product_price": 3.3,
+    "product_name": "extra liqueur trio",
+    "product_type": "Spirits",
+    "product_id": "858314"
+  },
+  {
+    "brand_name": "",
+    "product_price": 17.39,
+    "product_name": "zink-o",
+    "product_type": "Spirits",
+    "product_id": "582119"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "salade-tomate",
+    "product_type": "Food",
+    "product_id": "859506"
+  },
+  {
+    "brand_name": "",
+    "product_price": 43.48,
+    "product_name": "masi campofiorin",
+    "product_type": "Wine",
+    "product_id": "860238"
+  },
+  {
+    "brand_name": "Stella Artois",
+    "product_price": 7.39,
+    "product_name": "stella artois btl",
+    "product_type": "Beer",
+    "product_id": "860560"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "sans pomme de terre",
+    "product_type": "Others",
+    "product_id": "861337"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "cheddar",
+    "product_type": "Food",
+    "product_id": "861370"
+  },
+  {
+    "brand_name": "",
+    "product_price": 6.08,
+    "product_name": "keith's rousse btl",
+    "product_type": "Beer",
+    "product_id": "861570"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "frite",
+    "product_type": "Food",
+    "product_id": "873451"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "sauce a part",
+    "product_type": "Others",
+    "product_id": "873442"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "a part",
+    "product_type": "Others",
+    "product_id": "873452"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "les 2 vinaigrette",
+    "product_type": "Others",
+    "product_id": "873453"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "poivre et frites",
+    "product_type": "Food",
+    "product_id": "873454"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "les 2 filets sc au",
+    "product_type": "Others",
+    "product_id": "873455"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "avec le saumon",
+    "product_type": "Others",
+    "product_id": "873458"
+  },
+  {
+    "brand_name": "",
+    "product_price": 9.5,
+    "product_name": "poutine djeuner",
+    "product_type": "Food",
+    "product_id": "642070"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "avec creme sure",
+    "product_type": "Others",
+    "product_id": "862812"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "extraa champignon",
+    "product_type": "Others",
+    "product_id": "862815"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "pour les 2",
+    "product_type": "Others",
+    "product_id": "862816"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "vinaigrette a part",
+    "product_type": "Others",
+    "product_id": "862831"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "panier",
+    "product_type": "Others",
+    "product_id": "862870"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "dans le meme",
+    "product_type": "Others",
+    "product_id": "862871"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "poivres svp",
+    "product_type": "Others",
+    "product_id": "862883"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "avec sauce au",
+    "product_type": "Others",
+    "product_id": "862884"
+  },
+  {
+    "brand_name": "",
+    "product_price": 677.7,
+    "product_name": "divers nourriture",
+    "product_type": "Food",
+    "product_id": "862887"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "gratine",
+    "product_type": "Others",
+    "product_id": "862910"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "dulce",
+    "product_type": "Others",
+    "product_id": "873443"
+  },
+  {
+    "brand_name": "",
+    "product_price": 2.0,
+    "product_name": "extra parmesan",
+    "product_type": "Food",
+    "product_id": "875230"
+  },
+  {
+    "brand_name": "",
+    "product_price": 45.0,
+    "product_name": "ravenswood p syrah",
+    "product_type": "Wine",
+    "product_id": "875518"
+  },
+  {
+    "brand_name": "",
+    "product_price": 43.25,
+    "product_name": "divers alcool",
+    "product_type": "Spirits",
+    "product_id": "875561"
+  },
+  {
+    "brand_name": "",
+    "product_price": 4.78,
+    "product_name": "martini blanc",
+    "product_type": "Spirits",
+    "product_id": "876262"
+  },
+  {
+    "brand_name": "",
+    "product_price": 140.0,
+    "product_name": "veuve clicquot",
+    "product_type": "Wine",
+    "product_id": "876284"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "tartare ent th",
+    "product_type": "Food",
+    "product_id": "876495"
+  },
+  {
+    "brand_name": "",
+    "product_price": 24.0,
+    "product_name": "onglet th",
+    "product_type": "Food",
+    "product_id": "876496"
+  },
+  {
+    "brand_name": "",
+    "product_price": 24.0,
+    "product_name": "morue th",
+    "product_type": "Food",
+    "product_id": "876497"
+  },
+  {
+    "brand_name": "",
+    "product_price": 24.0,
+    "product_name": "linguini th",
+    "product_type": "Food",
+    "product_id": "876498"
+  },
+  {
+    "brand_name": "",
+    "product_price": 37.0,
+    "product_name": "el coto",
+    "product_type": "Wine",
+    "product_id": "876628"
+  },
+  {
+    "brand_name": "",
+    "product_price": 13.48,
+    "product_name": "glenfiddich",
+    "product_type": "Spirits",
+    "product_id": "876783"
+  },
+  {
+    "brand_name": "",
+    "product_price": 0.0,
+    "product_name": "sasquatch fo",
+    "product_type": "Food",
+    "product_id": "877100"
+  },
+  {
+    "brand_name": "",
+    "product_price": 4.0,
+    "product_name": "bene1o  jambon fo",
+    "product_type": "Food",
+    "product_id": "877210"
+  },
+  {
+    "brand_name": "",
+    "product_price": 1.69,
+    "product_name": "remplissage",
+    "product_type": "Non Alcoholic Beverages",
+    "product_id": "880091"
+  },
+  {
+    "brand_name": "",
+    "product_price": 5.99,
+    "product_name": "turbo twist",
+    "product_type": "Non Alcoholic Beverages",
+    "product_id": "880093"
+  },
+  {
+    "brand_name": "",
+    "product_price": 272.47,
+    "product_name": "divers nourriture",
+    "product_type": "Food",
+    "product_id": "881711"
+  },
+  {
+    "brand_name": "",
+    "product_price": 1.5,
+    "product_name": "extra liqueur trio",
+    "product_type": "Non Alcoholic Beverages",
+    "product_id": "882702"
+  },
+  {
+    "brand_name": "",
+    "product_price": 7.83,
+    "product_name": "margarita",
+    "product_type": "Spirits",
+    "product_id": "882946"
+  },
+  {
+    "brand_name": "",
+    "product_price": 50.0,
+    "product_name": "btl boisson",
+    "product_type": "Spirits",
+    "product_id": "883274"
+  },
+  {
+    "brand_name": "",
+    "product_price": 2.25,
+    "product_name": "pain dore",
+    "product_type": "Others",
+    "product_id": "711655"
+  },
+  {
+    "brand_name": "",
+    "product_price": 24.78,
+    "product_name": "belle brillet",
+    "product_type": "Spirits",
+    "product_id": "884713"
+  },
+  {
+    "brand_name": "",
+    "product_price": 16.95,
+    "product_name": "tanqueray",
+    "product_type": "Spirits",
+    "product_id": "884768"
+  },
+  {
+    "brand_name": "",
+    "product_price": 8.0,
+    "product_name": "omelette jour fo",
+    "product_type": "Food",
+    "product_id": "885461"
+  },
+  {
+    "brand_name": "",
+    "product_price": 16.0,
+    "product_name": "bene 2o jambon",
+    "product_type": "Food",
+    "product_id": "885467"
+  },
+  {
+    "brand_name": "",
+    "product_price": 15.0,
+    "product_name": "cassolette dej",
+    "product_type": "Food",
+    "product_id": "885468"
+  },
+  {
+    "brand_name": "",
+    "product_price": 25.29,
+    "product_name": "divers nourriture",
+    "product_type": "Food",
+    "product_id": "887325"
+  },
+  {
+    "brand_name": "",
+    "product_price": 7.39,
+    "product_name": "cafe jamaicain",
+    "product_type": "Food",
+    "product_id": "736926"
+  }
+]

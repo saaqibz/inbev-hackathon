@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Open Sans', sans-serif;
+  background-color: #fdfcf9;
+}
+
+i{
+  font-family: 'fontAwesome';
+}
+
+.text-center {
+  text-align:center;
+}
